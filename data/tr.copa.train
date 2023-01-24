@@ -1,0 +1,400 @@
+cause	1	Vücudum çimlerin üzerine bir gölge attı.	Güneş doğuyordu.	Çim kesildi.
+cause	1	Kadın arkadaşının zor davranışını tolere etti.	Kadın arkadaşının zor zamanlar geçirdiğini biliyordu.	Kadın, arkadaşının nezaketinden yararlandığını hissetti.
+cause	2	Kadınlar kahve için bir araya geldi.	Kafe yeni bir yerde yeniden açıldı.	Birbirlerini yakalamak istediler.
+cause	1	Koşucu şort giydi.	Tahmin yüksek sıcaklıkları öngördü.	Plaj boyunca koşmayı planladı.
+cause	1	Partinin konukları kanepenin arkasına saklandılar.	Sürpriz bir partiydi.	Bir doğum günü partisiydi.
+cause	2	Politikacı seçimi kaybetti.	Olumsuz kampanya reklamları yaptı.	Kimse ona oy vermedi.
+cause	2	Leke gömlekten çıktı.	Gömleği yamaladım.	Gömleği ağarttım.
+cause	2	Adam yiyeceklerinde indirim aldı.	Kasiyeri selamladı.	Bir kupon kullandı.
+effect	1	Doktor hastaya yanlış teşhis etti.	Hasta doktora karşı yanlış uygulama davası açtı.	Hasta doktora gizli bilgiler açıkladı.
+cause	2	Müşteri mağaza yöneticisine şikayette bulundu.	Satış ortağı müşteriden düşüktü.	Satış ortağı müşteriye kaba davrandı.
+cause	1	Kadın musluğunu onardı.	Musluk sızdıran.	Musluk kapatıldı.
+effect	2	Yaşlı kadın felç geçirdi.	Kadının kızı evini temizlemek için geldi.	Kadının kızı onunla ilgilenmek için taşındı.
+effect	1	Gölet kış için dondu.	İnsanlar gölette paten yaptı.	İnsanlar gölete tekne getirdi.
+effect	1	Suçlu şartlı tahliye ihlal etti.	Hapse geri gönderildi.	Bir kiliseden para çaldı.
+effect	1	Uyuyan arkadaşım üzerine su döktüm.	Arkadaşım uyandı.	Arkadaşım horladı.
+cause	1	Kız nefes aldı.	Arkadaşı bir buz küpü sırtına taktı.	Arkadaşı ona arkada bir pat verdi.
+cause	2	Gömlek küçüldü.	Üzerine çamaşır suyu döktüm.	Kurutucuya koydum.
+effect	2	Dışarıda hava karardı.	Kar taneleri gökyüzünden düşmeye başladı.	Ay gökyüzünde görünür oldu.
+cause	1	Telefonu kapattım.	Arayan bana veda etti.	Arayan kendisini bana tanımladı.
+effect	2	Kadının yüzüğü duşta kaydı.	Kadın yüzüğü parlattı.	Halka boşa çıktı.
+cause	1	Kız bir kupa aldı.	Yazım arısı kazandı.	Yeni bir arkadaş edindi.
+effect	1	Kadının randevusu beyefendi gibi görünmek istedi.	Onun için kapıyı açtı.	Ona suşi sevip sevmediğini sordu.
+effect	1	Tarım arazilerinin sulamaya ihtiyacı vardı.	Bir kanal inşa edildi.	Bir sel meydana geldi.
+cause	1	Ev sahibi partiyi iptal etti.	Grip olduğundan emindi.	Grip yakalayacağından endişelendi.
+cause	1	Kadın adama telefon numarasını verdi.	Ona ilgi duydu.	Onun tarafından püskürtüldü.
+cause	1	Skydiver güvenli bir şekilde yere kaydı.	Paraşütünü açtı.	Uçaktan atladı.
+effect	1	Yürümeye başlayan çocuk huysuz oldu.	Annesi onu şekerleme için indirdi.	Annesi saçlarını pigtaillere yerleştirdi.
+cause	2	Çocuk hastalığa karşı bağışık oldu.	Hastalığa maruz kalmaktan kaçındı.	Hastalık için aşı aldı.
+effect	1	Üzüm suyu fermente edildi.	Meyve suyu şaraba döndü.	Meyve suyu buharlaştı.
+cause	2	Arkadaşların tartışmaları birbirine sürüklendi.	Arkadaşlar göze baktı.	Arkadaşlar saçları bölüyorlardı.
+cause	2	Kadın kendine mırıldandı.	Gergindi.	İyi bir ruh hali içindeydi.
+effect	1	Adam yeni saç kesiminden nefret ediyordu.	Şapka taktı.	Sakal büyüdü.
+effect	2	Polis silahlarını kaçakta hedefledi.	Kaçak yere düştü.	Kaçak silahını düşürdü.
+effect	2	Hasta susuz kaldı.	Hemşire reflekslerini test etti.	Hemşire ona IV verdi.
+effect	1	Kız kayıp bulmaca parçasını buldu.	Bulmacayı tamamladı.	Bulmacayı parçaladı.
+cause	1	Adam acilen yataktan sıçradı.	Çalar saatini kapatmak istedi.	İşten önce pantolonunu ütülemek istedi.
+effect	2	Makaleler dağınıktı.	Fotokopileri yaptım.	Onları alfabetik sıraya koydum.
+effect	1	Kadın piyangoyu kazandı.	Bir yat aldı.	Bir kiliseye katıldı.
+effect	2	Dikiş dişli iğneyi kumaşa itti.	İplik iğnenin etrafına sarıldı.	İplik kumaştan geçti.
+cause	1	Kadın bir avukat tuttu.	İşverenine dava açmaya karar verdi.	Ofis için koşmaya karar verdi.
+effect	1	Kiracı anahtarlarını dairesine yanlış yerleştirdi.	Ev sahibi kapının kilidini açtı.	Ev sahibi kapıyı onardı.
+effect	2	En sevdiğim şarkı radyoda geldi.	Kulaklarımı kapladım.	Onunla şarkı söyledim.
+cause	1	Yönetici başvuranı işe almamaya karar verdi.	Başvuran bir arka plan kontrolü başarısız oldu.	Başvuru sahibinin iş için deneyimi vardı.
+effect	1	Adamın gözü enfekte oldu.	Kör gitti.	Gözlük taktı.
+cause	2	Kuş uçamadı.	Kış için göç etti.	Kanatını yaraladı.
+cause	2	Kız bir dilek verdi.	Kara bir kedi gördü.	Bir çekim yıldızı gördü.
+effect	1	Kadın havuzdan çıkarken titredi.	Kendini bir havluya sardı.	Kendine biraz limonata döktü.
+effect	2	Hemşire iğneyi hastanın enjeksiyonuna hazırladı.	Hasta kanadı.	Hasta gerildi.
+cause	2	Adam ekmeği attı.	Taze idi.	Bayattı.
+cause	1	Çocuklar bir lambayı devirdi.	Yastık kavgası vardı.	Yatağa atladılar.
+cause	1	Su çeşmesinden içtim.	Susamıştım.	Mide bulantısı hissettim.
+effect	1	Ev sahipleri meraklı komşularını sevmediler.	Mülklerinin etrafına bir çit inşa ettiler.	Arka bahçelerinde bir barbekü düzenlediler.
+effect	2	Vücut geliştirici ağırlıkları kaldırdı.	Spor salonu kapandı.	Kasları yoruldu.
+effect	2	Aşçı, malzemeleri kaseye karıştırdı.	Malzemeler eridi.	Malzemeler birlikte harmanlandı.
+effect	2	Adam belgeyi imzaladı.	İşlem geçersiz kılındı.	İşlem resmi oldu.
+effect	2	Polis memuru silahı düşürdü.	Silah geri tepti.	Silah söndü.
+effect	1	Kadın ihtiyacı olan birine yardım etmeye mecbur hissetti.	Kan bağışladı.	Bir şiir yazdı.
+effect	2	Kadın yalnız hissetti.	Mutfağını yeniledi.	Bir kedi kabul etti.
+effect	1	Ahşaba zımpara kağıdı ovuşturdum.	Ahşap pürüzsüz hale geldi.	Ahşap yapışkan oldu.
+effect	2	Kalabalık gruba ayakta alkışladı.	Grup imza imzaladı.	Grup sahnede yeniden ortaya çıktı.
+effect	2	Adam boş kutusunu sokağa attı.	Arkadan atlandı.	Çöp atmak için para cezasına çarptırıldı.
+cause	1	Midem hırladı.	Kahvaltı yemeyi unuttum.	Kahvaltıdan doluydum.
+effect	2	Kayıkçılar bir parlama başlattı.	Tekneleri kıyıya sürüklendi.	Tekneleri kurtarıldı.
+cause	1	Adam ceketini çıkardı.	Eve girdi.	Kravatını gevşetti.
+cause	2	Aile köpeklerini veterinere götürdü.	Köpek bir kemik üzerinde çiğnedi.	Köpek pençesini yaraladı.
+effect	1	Kadın bisküviyi köpeğin üzerindeki sarktı.	Köpek atladı.	Köpek kürkünü çizdi.
+cause	1	Tahta oyununu nasıl oynayacağımı öğrendim.	Arkadaşım bana kuralları açıkladı.	Arkadaşım kuralları yanlış anladı.
+cause	1	Adam hafta sonu için gitti.	Rahatlamak istedi.	İçerik hissetti.
+cause	2	Dükkan kapatıldı.	Sahibi müşterilere yardım ediyordu.	Dükkan yenileme geçiriyordu.
+cause	2	Çocuk radyoyu ayarladı.	İstasyon rock müziği çalıyordu.	İstasyon statik ile geliyordu.
+effect	1	Terörist bomba yol açtı.	Bomba patladı.	Bomba devre dışı bırakıldı.
+cause	2	Polis şüpheliyi kelepçeledi.	Polis yedekleme çağrısında bulundu.	Şüpheli tutuklamaya direndi.
+effect	2	Yetkililer suç kurbanının kimliğini koruma sözü verdiler.	Kurban suçla ilgili ayrıntıları hatırlamak için mücadele etti.	Kurbanın adını halktan sakladılar.
+cause	2	Adamın kıyafetleri gevşek bir şekilde uyuyor.	Onları satışta aldı.	Kilo kaybetti.
+effect	2	Saat işaretlemeyi bıraktı.	Hazırlanmak için fazladan zaman ayırdım.	Saat yanlış zaman gösterdi.
+cause	2	Adam şemsiyeyi kapattı.	Arabadan indi.	Binaya yaklaştı.
+cause	2	Adam bir sigara istedi.	Ailesi onu sigarayı bırakmaya çağırdı.	Nikotine bağımlıydı.
+effect	2	Adam yere yiyecek bıraktı.	Köpeği ona atladı.	Köpeği yemeği yemek için koştu.
+effect	1	Kız arkadaşına kızdı.	Kız arkadaşı hakkında bir söylenti yaydı.	Kız arkadaşına bir sır söyledi.
+effect	2	Kaçak polisten saklandı.	Polis davayı bıraktı.	Kaçak genel olarak kaldı.
+effect	2	Şişeyi devirdim.	Şişedeki sıvı dondu.	Şişedeki sıvı döküldü.
+cause	2	Kadın yabancı bir aksanla konuştu.	Zengin bir aileden geldi.	Başka bir ülkeden göç etti.
+cause	1	Çocuğun ağzı sokuldu.	Bir biber yedi.	Mumu havaya uçurdu.
+effect	2	Kitabın bir sayfasını bitirdim.	Bir sonraki sayfayı yırttım.	Bir sonraki sayfaya döndüm.
+cause	2	Restoranda servis yavaş.	Birçok boş masa vardı.	Restoran kalabalık.
+effect	1	Bir kadının sokakta soyulduğunu gördüm.	911'i aradım.	Bir taksi selamladım.
+cause	2	Midem ağrıyor.	Koşu bandında koştum.	Doğum günü pastası yedim.
+cause	1	Tabağımı lavaboya koydum.	Yemek yemeyi bitirdim.	Akşam yemeğini atladım.
+cause	1	Adam kitabı kapattı.	Okumayı bitirdi.	Onu düşünmesi için kışkırttı.
+cause	2	Çocuk romanı büyükbabasına yüksek sesle okudu.	Büyükbabası sağırdı.	Büyükbabası kördü.
+effect	2	Ayağım uyuştu.	Ayakkabılarımı taktım.	Ayağımı salladım.
+effect	1	Fotoğrafçı çocuğu gülümsedi.	Fotoğrafçı hızlı bir şekilde çocuğun fotoğrafını çekti.	Fotoğrafçı çocuğun pozunu hızla değiştirdi.
+cause	1	Pencere opaktı.	Cam lekelendi.	Panjurlar açıktı.
+cause	1	Yere kaydım.	Karo ıslaktı.	Karo çatlamıştı.
+effect	2	Adam usturayı çenesine kaydırdı.	Anızı büyüdü.	Anızı kayboldu.
+cause	2	Kadın ailesini tatilde aldı.	Kocası işten çıkarıldı.	Maaş bonusu aldı.
+cause	2	Kadın uyandı.	Uyku hapı aldı.	Kocası horladı.
+effect	2	Kadın hoş bir koku hissetti.	İlaçlarını almayı hatırladı.	Çocukluğunu hatırlattı.
+cause	2	Çubuk kapalı.	Kalabalıktı.	3 amdı.
+cause	2	Sürücü polis tarafından devredildi.	O park ediyordu.	Hızlanıyordu.
+effect	1	Öğretmen rol aldı.	Yok olan öğrencileri tanımladı.	Öğrencilerine pop sınavı verdi.
+effect	2	Sarkaçı ittim.	Durmaya yavaşladı.	İleri geri sallandı.
+effect	2	Çocuk blok yığınını tekmeledi.	Yığın çocuğun kafasının üzerinde yükseldi.	Bloklar halının her tarafına dağıldı.
+cause	2	Genç evden kaçtı.	Ailesine güveniyordu.	Ailesi onu istismar etti.
+cause	1	İş görüşmesini başlattım.	Görüşmeci zor sorular sordu.	Görüşmecinin sorularını bekledim.
+cause	1	İlaç şirketi ilacı hatırladı.	Kullanıcılar tehlikeli yan etkiler bildirdiler.	Kullanıcılar reçetelerinde yeniden doldurulur.
+effect	2	Adam saatine baktı.	Bir şeyi unuttuğunu fark etti.	Erken olduğunu fark etti.
+cause	1	Bir kağıt havlu ile zemini dabled.	Yere meyve suyu döktüm.	Zemin kalıcı olarak lekelendi.
+cause	2	Barmen patrona hizmet etmeyi reddetti.	Patron yalnızdı.	Patron sarhoştu.
+effect	2	Profesörün dersiyle kafam karıştı.	Profesöre dikkat ettim.	Profesör sorularına sordum.
+effect	1	Kitap çocuklar için uygun görülmedi.	Okullar onu kütüphanelerinden yasakladı.	Öğretmenler öğrencilerin okumasını gerektirdi.
+effect	1	Adam affetmek için yalvardı.	Kadın ona acımıştı.	Kadın onunla şaka yaptı.
+effect	1	Postada bir paket aldım.	Paket merakımı tetikledi.	Paketi postaneye götürdüm.
+effect	1	Sörfçü dalgayı yakaladı.	Dalga onu kıyıya taşıdı.	Tahtasını okyanusa kürek çekti.
+effect	2	Konuşmacı tartışma rakibini silahsızlandırdı.	Konuşmacı rakibini tebrik etti.	Konuşmacı tartışmayı kazandı.
+cause	1	Yeni bir şehre taşındım.	Daha iyi ücretli bir iş buldum.	Oğlum doğdu.
+cause	1	Soruya doğrudan cevap vermekten kaçındım.	Soru beni rahatsız etti.	Dürüst olmak istedim.
+cause	1	Öğrenci gözaltına alındı.	Öğretmenle tekrar konuştu.	Öğretmen ödevini derecelendirdi.
+cause	1	Çocuğun elleri titriyordu.	Kıza dışarı çıkmayı planladı.	Avuç içi soğuk ve terliydi.
+cause	2	Stadyumdaki hayranlar tezahürat etti.	Oyun bir kravatla sona erdi.	Oyuncu gol attı.
+effect	2	Kız bisikletindeki tepeden aşağı indi.	Bisikleti hızlandı.	Bisikleti hızlandı.
+effect	1	Uzun çizgide önümde kesilmiş bir adam.	Onunla yüzleştim.	Ona gülümsedim.
+cause	1	Trenin içi karardı.	Tren bir tünelden geçti.	Tren pistlerden kaçtı.
+effect	1	Adam resmi düşündü.	Huşu içinde hissetti.	Çöktü.
+cause	2	Kaplumbağa kabuğuna saklandı.	Bir balık yedi.	Bir yırtıcı tespit etti.
+cause	2	Kız kıyafetlerini küçük kız kardeşine teslim etti.	Kıyafetler püskü.	Kıyafetleri aştı.
+effect	2	Suçun birkaç tanığı şüpheliye karşı ifade verdi.	Şüpheli beraat etti.	Şüpheli mahkum edildi.
+cause	2	Ebeveynler çocuklarını bir bebek bakıcısı ile terk etti.	En küçük çocukları anaokuluna gitmeye başladı.	Yıldönümlerini kutlamayı planladılar.
+cause	2	Gezi uzun zaman aldı.	Sürücü tüm yol boyunca konuştu.	Sürücü yanlış bir dönüş yaptı.
+effect	1	Ürün yoğun bir şekilde ilan edildi.	Tüketiciler ürünü tanıdı.	Ürün modası geçmiş oldu.
+effect	1	Sabunu ellerimin arasına ovuşturdum.	Sabun köpürdü.	Ellerim uyuştu.
+effect	1	Cowgirl, kemanını ata doğru attı.	Lasso atın üzerine geldi.	At ahıra girdi.
+effect	1	Grup kadının sahte pasını gözden kaçırdı.	Kadın rahatlamıştı.	Kadın özür diledi.
+effect	1	Kız ders kitabında yabancı bir kelimeyle karşılaştı.	Sözlükte terimi aradı.	Ders kitabını odanın karşısına koydu.
+effect	1	Adam engellendi.	Ailesi ona mali destek teklif etti.	Ailesi onunla teması kesti.
+effect	2	El feneri öldü.	Ben ayırdım.	Pilleri değiştirdim.
+effect	1	Kokarca köpeğe püskürttü.	Köpek kötü bir koku yaydı.	Kokar ormanda dolaştı.
+effect	1	Cildimi çizdim.	Kaşıntım gitti.	Scar'ım soldu.
+cause	2	Büyükanneme bir teşekkür notu yazdım.	Unutkan oldu.	Bana bir hediye gönderdi.
+effect	2	Evin içine bir hırsız kırıldı.	Ev sahipleri uyuyordu.	Güvenlik alarmı söndü.
+effect	2	Arkama giren kadının kapısını tuttum.	Kapı kapandı.	Kadın bana teşekkür etti.
+effect	1	Banyodaki ayna sis yaptı.	Kız hayranı açtı.	Kız makyajını uyguladı.
+cause	2	Güvenlik görevlisi adamla mücadele etti.	Adam cebine ulaştı.	Adam bir silah sergiledi.
+effect	2	Sürücü direksiyon simidini döndürdü.	Araba durdu.	Araba döndü.
+cause	1	Ordu savaşı teslim etti.	Sayıca fazla.	Şehri bastırdılar.
+effect	2	Donanma gemiyi bombaladı.	Gemi iskeleye çarptı.	Geminin enkazı denize battı.
+cause	2	Gömleğimi ütledim.	Temizdi.	Buruşmuştu.
+effect	1	Kız başım döndü.	Dengesini kaybetti.	Uzandı.
+cause	2	Sürücü yolun kenarına çekildi.	Bir kavşaktan geçti.	Kıyıklı bir araç fark etti.
+cause	1	Hastane hastayı eve gönderdi.	Hastanın semptomları temizlendi.	Hastanın ailesi onu ziyaret etti.
+cause	1	Çocuk hayatı tehdit eden bir hastalık yakaladı.	Aşılamadı.	Evlat edinildi.
+effect	2	Tiyatroda boş koltuklar bulduk.	Film başladı.	Oturduk.
+effect	2	Ebeveynler kızlarının yaratıcılığını tanıdı.	Ona nasıl bisiklet süreceğini öğrettiler.	Onu sanatçı olmaya teşvik ettiler.
+effect	2	Çocuk kapağı kavanoza çevirdi.	Kavanoz ısındı.	Kapak çıktı.
+cause	2	Kadın diploma aldı.	Üniversiteye kaydoldu.	Üniversiteden mezun oldu.
+cause	2	Su sürahisini çektim.	Üst katta yürüdüm.	Beş mil koştum.
+effect	1	Kaldırımda bir su birikintisine geldim.	Birikintinin üzerine sıçradım.	Su birikintisinde oynadım.
+cause	1	Kadın kulaklarını kapladı.	Yangın alarmı canlandı.	Kadın duman kokuyordu.
+effect	1	Arkeolog siteyi kazdı.	Eski eserleri kazdı.	Sitenin geçmişini okudu.
+cause	1	Seyirciler komedyeni sahneden yuhaladı.	Irkçı bir şaka söyledi.	Seyirciyi eğlendirdi.
+cause	2	Antrenör oyuncusuna beş tane verdi.	Oyuncu bir ceza aldı.	Oyuncu bir puan aldı.
+effect	2	Topu yukarı doğru attım.	Top yere yuvarlandı.	Top tavana çarptı.
+effect	2	Nefesim sarımsak kokuyordu.	Ağzımı sildim.	Dişlerimi fırçaladım.
+effect	1	Adam kayboldu.	Talimat istedi.	Bir harita çizdi.
+effect	2	Bebek annenin saçını çekti.	Bebek yırtıp.	Anne yüzünü buruşturdu.
+effect	1	Bir ayağının üzerinde durdum.	Dengem titredi.	Diz çöktüm.
+effect	1	Gaz pedalını ittim.	Araba hızlandı.	Araba kapısı açıldı.
+cause	1	Arabam çekildi.	Yasadışı park ettim.	Pili atladım.
+cause	2	Kadın suçtan kaçtı.	Suç ortağı yakalandı.	Kanıtları yok etti.
+cause	1	Toz masadan çıktı.	Masayı bir bezle sildim.	Kitapları masadan çıkardım.
+effect	2	Motosikletçi gaz kelebeğini büktü.	Motosiklet durdu.	Motosiklet öne çıktı.
+effect	2	Öğretmen öğrenciyi sakız yakaladı.	Sakız öğrencinin ayakkabısına yapıştı.	Öğrenci sakız tükürdü.
+effect	1	Ev sahibi misafirlerine akşam yemeği servis etti.	Konukları zarifti.	Konukları aç gitti.
+cause	1	Çocuk ağaca tırmandı.	Bir kedi ağaca sıkıştı.	Bir kuş ağaçta bir yuva inşa etti.
+cause	2	Sandalye gıcırdadı.	Adam sandalyeyi ofisine taşıdı.	Adam sandalyeyi masasına yaklaştırdı.
+cause	1	Baba çocuk televizyonunu kapattı.	Çocuklar için yatmadan önce.	Çocuklar çizgi film izliyorlardı.
+cause	1	Adam nefesini tuttu.	Su altına gitti.	Su aldı.
+effect	2	Yabancıya beceriksizce çarptım.	Kaçtım.	Ondan özür diledim.
+cause	2	Tekne alabora oldu.	Kaptan yelkenini kaldırdı.	Bir kasırgaya yakalandı.
+cause	2	Anne oğlunun yalan söylediğinden şüphelendi.	Onunla konuşmayı reddetti.	Onunla göz teması kurmaktan kaçındı.
+cause	2	Genç kadının bara girişi reddedildi.	Arkadaşları onu ayağa kaldırdı.	Kimliğini unuttu.
+cause	2	Ay üzerinde bir krater oluştu.	Ay tarafından geçen bir kuyruklu yıldız.	Bir kuyruklu yıldız ayla çarpıştı.
+effect	2	Toprağa tohumları diktim.	Toprağı sulandırdım.	Tohumlar filizlendi.
+cause	1	Yardımcısı anonim kalmasını istedi.	Gizliliğini korumak istedi.	Bağışının arkasındaki davayı destekledi.
+effect	2	Kadın yüzünde Scar'dan utanmıştı.	Yabancılara yara izini açıkladı.	Scar'ı makyajla sakladı.
+effect	1	Doktor hastanın kolunu röntgen etti.	Hastanın kolunun kırıldığını keşfetti.	Hastanın kolunu bir dökümüne koydu.
+cause	2	Çocuk kovayı kumla doldurdu.	Kumda deniz kabukları topluyordu.	Bir kum kalesi inşa ediyordu.
+effect	2	Kadın bilgisayar donanımını yükseltti.	Bilgisayardaki eski dosyaları sildi.	Bilgisayara yeni yazılım yükledi.
+effect	2	Kız bir dans resitalinde sahne aldı.	Ailesi ona nasıl dans edileceğini gösterdi.	Ailesi resitali izlemeye geldi.
+effect	1	Bebek beşiğinde ağlıyordu.	Anne bebeği aldı.	Bebek anneye süründü.
+effect	1	Kadının dini bir uyanışı vardı.	Kiliseye gitmeye başladı.	Yurtdışına seyahat etmeye başladı.
+effect	1	Büro çekmeceleri dağınıktı.	Gereksiz içeriği attım.	Çekmeceleri kilitledim.
+cause	1	Öğrenci test notunu sınıf arkadaşlarına gösterdi.	Mükemmel bir puan aldı.	Sınıfa ilgi duydu.
+cause	1	Çocuk ev sahibi hissetti.	Kampa gitti.	Kız kardeşi ile uğraştı.
+cause	1	Roket gökyüzüne uçtu.	Kız başlattı.	Kız onu tasarladı.
+effect	2	Çocuk annesine cevabını mırıldandı.	Annesi ona fısıldamasını söyledi.	Annesi ona konuşmasını söyledi.
+cause	1	Uçuşum gecikti.	Bölgede kasırgalar görüldü.	Havaalanı güvenliğinde tutuldum.
+cause	2	Duman alarmı söndü.	Bir mum yaktım.	Akşam yemeğimi yaktım.
+effect	2	Vazo kırıldı.	Ben stenced.	Birlikte yapıştırdım.
+cause	1	Kadın elektrik şoku hissetti.	Kapı tokmağını aldı.	Kapıya çarptı.
+cause	1	Adam yanağında ruj vardı.	Kadın onu öptü.	Kadın onu kızdırdı.
+cause	1	İçgüdüsel olarak korku içinde atladım.	Bana arkadan yaklaşan birini hissettim.	İnsanların bitişik odada kıkırdadığını duydum.
+effect	2	Bahçıvan bitkilerinin gelişmesini istedi.	Çeşitli tohumlar dikti.	Toprağa gübre koydu.
+cause	2	Evde bir su borusu patladı.	Su sağlıksızdı.	Boru dondu.
+effect	1	Pantolonumdaki bel bandı gevşekti.	Bir kemer koydum.	Şapka koydum.
+cause	2	Şirket para kaybetti.	Ürünleri olumlu tüketici incelemeleri aldı.	Bazı ürünleri kusurlu olarak üretildi.
+cause	1	Kiracılar daireden tahliye edildi.	Kiralarını ödemeyi ihmal ettiler.	Ev sahipleriyle anlaştılar.
+effect	2	Adam diş ağrısıyla uyandı.	Diş hekimi ile randevuyu kaçırdı.	Diş hekimi ile randevu aldı.
+cause	1	Takım oyunu kaybetti.	En iyi oyuncuları yaralandı.	Koçları onları pompaladı.
+cause	1	Ebeveynler çocuklarının filmi izlemelerini yasakladı.	Film R olarak değerlendirildi.	Film canlandırıldı.
+cause	1	Kadın e -postayı sildi.	Gönderen ondan para istemeye çalıştı.	Gönderen ondan bir yanıt istedi.
+cause	2	Polis kadını şüpheliler listesinden eledi.	Polis onu sorguladı.	Alibi check -out yaptı.
+effect	2	Dağcılar dağın zirvesine ulaştılar.	Bir çığ karşılaştılar.	Birbirlerini tebrik ettiler.
+effect	1	Vandallar pencereye bir kaya attı.	Pencere çatladı.	Pencere sislendi.
+effect	1	Falcı'nın vahiyleri ikna ediciydi.	Geri dönen birçok müşteri aldı.	Birçok müşteri geri ödeme istedi.
+cause	2	Kadının makyajı bulaştı.	Saçlarını fırçaladı.	Gözlerini sildi.
+effect	1	Şirketin kârları seviyelendirilmeye başladı.	Yeni ürünler için pazarlama çabalarını artırdı.	Merkezini banliyö bir yere taşıdı.
+effect	2	Öğrencinin sınavdaki cevabı yanlıştı.	Öğretmen öğrencinin notuna bonus puanları ekledi.	Öğretmen, öğrencinin notundan puan çıkardı.
+effect	2	Kız uygun görgü kurallarını göstermek istedi.	Yedikten sonra peçetesini attı.	Yemeden önce peçetesini kucağına koydu.
+effect	2	Dedektif rozetini polis memuruna parlattı.	Polis memuru dedektifin rozetine el koydu.	Polis memuru, dedektifin olay yerine girmesine izin verdi.
+effect	2	Kız annesini mutlu etmek istedi.	Kız annesinin pişirdiği kurabiyeleri yedi.	Kız annesi için bir çiçek seçti.
+effect	2	Yürümeye başlayan çocuk ağlamaya başladı.	Ailesi oyuncağını aldı.	Ailesi ona bir oyuncak verdi.
+effect	1	Yabancı bana yabancı bir dilde bağırdı.	Ona boş baktım.	Onunla sohbet etmeyi bıraktım.
+effect	2	Adam düşmanına karşı suçlayıcı kanıtlar ortaya çıkardı.	Adam düşmanından kaçındı.	Adam düşmanına şantaj yaptı.
+effect	1	Kız kendini slaytın tepesinden itti.	Slayttan aşağı kaydı.	Slaytı süründü.
+cause	2	Çenem açıldı.	Mutsuzdum.	Şok olmuştum.
+effect	2	Çocuk ailesine itaatsizlik etti.	Ailesi ona sarıldı.	Ailesi onu cezalandırdı.
+effect	1	Araba pis görünüyordu.	Sahibi araba yıkama aldı.	Sahibi bir boya işi için aldı.
+effect	2	Arkadaşım biletimi ödedi.	Geri ödeme aradım.	Onu geri ödedim.
+cause	2	Kadın suçtan yanlış mahkum edildi.	Jüri adildi.	Çerçevelendi.
+effect	1	Kız makasını gazeteye uyguladı.	Kağıt ayrı dilimlendi.	Kağıt buruşuk.
+cause	2	Kadın ailesini ziyaret etti.	Onlara güvenmedi.	Onları özledi.
+effect	2	Bir kahkaha attım.	Dişlerim konuşmaya başladı.	Gözlerim gözyaşlarıyla iyileşti.
+effect	1	Okul müdürü bir kıyafet kodu uyguladı.	Öğrenciler kararı protesto ettiler.	Öğrenciler okuldan kovuldu.
+cause	1	Balon genişledi.	Ben patladım.	Ben diktim.
+effect	2	Konuşmanın ruh halini hafifletmek istedim.	Sessiz kaldım.	Bir şaka söyledim.
+cause	2	Adam ayak parmağını kırdı.	Çorapında bir delik var.	Ayağına bir çekiç bıraktı.
+effect	2	Adamın vicdan saldırısı vardı.	Arkadaşını manipüle etti.	Kararsızlığını itiraf etti.
+effect	1	Okul salonunda bir kavga çıktı.	Müdür dahil öğrencileri askıya aldı.	Müdür o gün için dersler verdi.
+cause	1	Fotoğraf albümleri çatı katında toz topladı.	Yıllarca dokunulmadan kaldılar.	Aile fotoğrafları anımsattı.
+cause	1	Kadınla yaptığım konuşmamdan rahatsız oldum.	Odadaki herkes konuşuyordu.	Kadın komik bir hikaye anlatıyordu.
+effect	1	Çamaşırhaneye çamaşır makinesine para koydum.	Makine çalıştı.	Çamaşır deterjanı bitti.
+cause	1	Aile barbekü erteledi.	Tahmin fırtınaları çağırdı.	Tatil haftasonuydu.
+cause	2	Hava plaj topundan sızdı.	Şişirildi.	İçinde bir delik vardı.
+effect	1	Grubumuzun konuşması yavaş yavaş susturuldu.	Garip hissettim.	Öfkeli oldum.
+effect	1	Yumruğumdaki şeker sargısını sıktım.	Sargı buruşuk.	Sargı yırtık.
+effect	1	Kadın piyano anahtarına bastırdı.	Bir ses çaldı.	Anahtar sıkıştı.
+effect	2	Kız en sevdiği aktörle tanıştı.	Yeni filmini izlemeye gitti.	Ondan imzasını istedi.
+cause	2	Araçlar yavaş seyahat etti.	Bulutluydu.	Sisliydi.
+cause	1	Avize yere paramparça oldu.	Avize tavandan düştü.	Avizenin ışıkları açılıp kapandı.
+cause	2	Kedi mırıldandı.	Beni çizdi.	Ben sevdim.
+effect	1	Çocuk kız kardeşini itti.	Kız kardeşi ona dövüldü.	Gizli ve arama oynadılar.
+effect	1	Adam kilo aldı.	Takımını değiştirdi.	Ayakkabılarını parlattı.
+effect	2	Bulutlar karanlık görünüyordu.	Dizüstü bilgisayarımı işe getirdim.	Şemsiyemi işe getirdim.
+effect	1	Uçağın motoru hatalıydı.	Uçak çöktü.	Pilot bir hata yaptı.
+cause	2	Arabalar yolun omzuna taşındı.	Trafik ışığı yeşile döndü.	Çığlık atan bir ambulans yaklaştı.
+cause	1	Çocuk sabun çubuğunu kaybetti.	Bar kaygan.	Çubuk bir koku yaydı.
+effect	1	Gömleğimdeki düğme düştü.	Düğmeyi tekrar diktim.	Düğmeyi tekrar yapıştırdım.
+cause	2	Ünlü güneş gözlüğü taktı.	Hayranlarına teşekkür etmek istedi.	Tanınmaktan kaçınmak istedi.
+effect	1	Büyükannem vefat etti.	Ailem bir cenaze töreni düzenledi.	Ailem bir araya geldi.
+effect	1	Polis memuru ünlüyü devraldı.	Ünlü subaya rüşvet verdi.	Ünlü polis memuruna dava açtı.
+cause	1	Adam terapiste kişisel bilgileri açıkladı.	Terapiste güvendi.	Terapistle aynı fikirde değildi.
+cause	1	Adam bilinçsiz düştü.	Saldırgan adamı kafasına vurdu.	Saldırgan adamın cüzdanını aldı.
+cause	2	Adama yaklaştım.	Meşgul görünüyordu.	Tanıdık görünüyordu.
+cause	1	Lider övgü aldı.	Yoksullukla savaştı.	Vergileri yükseltti.
+effect	2	Adam gazetedeki karikatürü okudu.	Kahve yudumladı.	Kıkırdadı.
+cause	2	Posta kutum harflerle dolup taşıyordu.	Posta kutusundaki kapak kırıldı.	İki hafta tatile gittim.
+effect	2	Muz olgunlaştı.	Onları sıktık.	Onları yedik.
+effect	2	Şef hamura bastırdı.	Hamur ufalandı.	Hamur düzleşti.
+cause	2	Kil sertleşti.	Potter kili bir topa yuvarladı.	Potter kili fırına koydu.
+cause	1	Ayaklarım kabardı.	Yürüyüşe gittim.	Yüzmeye gittim.
+effect	2	Kadın arkadaşına ihanet etti.	Arkadaşı ona bir tebrik kartı gönderdi.	Arkadaşı onunla teması kesti.
+cause	1	Adam kadını fark etti.	Parfümünün bir kokusunu yakaladı.	Sırtını ona çevirmişti.
+effect	1	Kadın ve erkek arkadaşı kavga etti.	Birbirlerini görmeyi bıraktılar.	Birlikte bir tatil planladılar.
+effect	2	Zorba ayağını sınıf arkadaşının önüne yapıştırdı.	Zorba sınıf arkadaşını aldı.	Bully'nin sınıf arkadaşı takıldı.
+effect	1	Adam düşmanından intikam almak istedi.	Adam düşmanını bir suç için çerçeveledi.	Adam düşmanı ile ateşkes ilan etti.
+effect	1	Bir fincan kahve içtim.	Esnemem sona erdi.	Uyumak için başını salladım.
+cause	2	Kadın kız kardeşi ile karıştırıldı.	Kadın kız kardeşi ile yakındı.	Kadın kız kardeşine benziyordu.
+cause	2	Adam hesaplamalarında bir hata yaptı.	İşini kontrol etti.	Çalışmaları aceliydi.
+cause	2	Kadının gözlükleri sis yaptı.	Havuz tarafından uzandı.	Sauna'ya girdi.
+effect	1	Alışveriş, öğenin maliyetini merak etti.	Fiyat etiketini kontrol etti.	Almaya karar verdi.
+cause	2	Trivia şovunun ev sahibi yarışmacıyı bir cevap için çağırdı.	Yarışmacı önderlik etti.	Yarışmacı zilleri çaldı.
+cause	2	Çocuk yatağa gitmekten korkuyordu.	Gece ışığını açtı.	Bir korku filmi izledi.
+effect	2	Kadın doktor olmak istedi.	Hastaneyi ziyaret etti.	Tıp fakültesine gitti.
+effect	2	Çocuk televizyon şovunu Boring'i buldu.	Kaydedildi.	Kapattı.
+effect	2	Kızım alerji saldırısı yaşadı.	Onu derin nefesler almaya teşvik ettim.	Onu acil servise götürdüm.
+effect	2	Çocuk gömleğini düğmede zorladı.	Gömleği giymeyi reddetti.	Annesinden yardım istedi.
+cause	2	Sakızımı tükürüyorum.	Sakızla bir balon patladım.	Sakız lezzetini kaybetti.
+effect	1	Çocuk annesi için bir resim çizdi.	Annesi resmi duvara astı.	Annesi resmi bir galeriye sattı.
+effect	2	Yarışma sona erdi.	Takımlar pompalandı.	Takımlar el sıkıştı.
+cause	1	Kız hamburgeri kibarca reddetti.	Vejeteryandı.	Fast food'u sevdi.
+effect	1	Lekeyi yere temizledim.	Lekeden kurtuldum.	Yerde kir var.
+effect	2	Belgeler önemli bilgiler içeriyordu.	Kağıt onları birlikte kırptım.	Onları güvenli bir yerde tuttum.
+cause	1	Yumurta sıçradı.	Ben onu düşürdüm.	Ben kaynattım.
+effect	2	Kız arkadaşını itti.	Arkadaşı boğuldu.	Arkadaşı düştü.
+effect	1	Bir grup genç partiyi çarptı.	Partinin ev sahibi onları kovdu.	Partinin ev sahibi onları davet etti.
+cause	1	Adam duş aldı.	Egzersiz yapmaktan terliydi.	Yeni bir sabun açtı.
+cause	2	Dizüstü bilgisayardaki ekran karardı.	Dizüstü bilgisayar garantisi süresi doldu.	Dizüstü bilgisayarın pili öldü.
+effect	1	Kitap büyük bir en çok satan oldu.	Bir filme uyarlandı.	Yazar belirsizliğe dönüştü.
+cause	1	Adam hayatta olduğu için minnettar hissetti.	Kanserden tedavi edildi.	Karısına kanser teşhisi kondu.
+cause	2	Kadın gaz şirketine bir çek yazdı.	Nakit parayla ödeme yapmayı tercih etti.	Aylık faturasını aldı.
+cause	1	Kadın kariyer değiştirme konusunda isteksiz hissetti.	Mevcut mesleğinde çok para kazandı.	Mevcut mesleğinde çok fazla strese katlandı.
+cause	2	Kadın adama karşı kısıtlayıcı bir emir verdi.	Adam onu ​​aradı.	Adam onu ​​takip etti.
+effect	2	Okyanus gelgit tehlikeliydi.	Yüzücüler daha fazla güneş kremi giydi.	Yüzücüler kıyıya döndü.
+cause	1	Kadın ikinci bir birayı reddetti.	Gecenin belirlenmiş sürücüydü.	Barmene aşinaydı.
+cause	1	Nefesim bitti.	Birkaç merdiven uçuşuna tırmandım.	Kitabın birkaç bölümünü okudum.
+effect	1	Kadın akıl hastası olarak kabul edildi.	Bir psikiyatri kuruma gönderildi.	Psikiyatrist olarak kariyer aradı.
+effect	2	Güneş bulutlardan ortaya çıktı.	Kadın saatine baktı.	Kadın süveterini çıkardı.
+cause	1	Futbol koçu maçtan sonra sesini kaybetti.	Bir oyuncu topu attığında bağırdı.	Bir oyuncu bir gol attığında ıslık çaldı.
+effect	2	Kadın adama iltifat etti.	Hapşırdı.	Kızardı.
+effect	2	Kolumdaki kesime baskı uyguladım.	İyileşti.	Kanamayı durdurdu.
+effect	1	Kadının enfeksiyonu vardı.	Antibiyotik aldı.	Ellerini yıkadı.
+effect	2	Kadın jüri görevi için çağrıldı.	Avukatıyla temasa geçti.	Randevularını iptal etti.
+cause	2	Kadın kendini eliyle havalandırdı.	Klimayı odaya kurdu.	Odadaki klima kırıldı.
+cause	2	Doktorlar hastanın bacağını kesti.	Kötü çürüktü.	Ciddi şekilde enfekte olmuştu.
+cause	1	Kız aynaya baktı.	Kendini bilinçli hissetti.	Ayna lekelendi.
+cause	1	Adam sivrisinekler tarafından ısırıldı.	Ormanda kamp yapmaya gitti.	Kanepesinde uyuyakaldı.
+effect	2	Kadın kardeşine bir hediye sundu.	Kardeşi hediyeyi kabul etmeyi reddetti.	Kardeşi hediyeyi açtı.
+effect	2	Yönetici boğazını temizledi.	Toplantı ertelendi.	Toplantı başladı.
+cause	2	Çocuklar sprinklerden geçti.	Popsicles yiyorlardı.	Onlar sıcaktı.
+effect	1	Adam park metresini doldurmak için paralara ihtiyaç duyuyordu.	Araba koltuklarının altında gevşek bir değişim için arama yaptı.	Sokaktaki insanlara gevşek bir değişim için yalvardı.
+effect	2	Müşteri hediyelik eşyanın overpriced olduğunu düşündü.	Vender onu ona sattı.	Satıcı ile pazarlık yaptı.
+cause	1	Bilim adamı tanındı.	Yeni bir tür keşfetti.	Üniversitede görev aldı.
+effect	1	Araba yaya geçidinde durdu.	Yaya yoldan geçti.	Yaya kaldırımda bekledi.
+cause	1	Çocuk kontrolsüz bir şekilde kıkırdadı.	Kardeşi onu gıdıkladı.	Kardeşi onu tekmeledi.
+effect	1	Dizlerim merdivenlere büküldü.	Kendimi korkulukta yakaladım.	Korkuluk duvardan gevşedi.
+cause	2	Yatağa gittim.	Açık bir geceydi.	Geç olmuştu.
+effect	2	Arkadaşım ameliyattan kurtuluyordu.	Onu hastaneye bıraktım.	Ona bir kart ve çiçek getirdim.
+effect	2	DJ müziği açtı.	İnsanlar partiden ayrıldı.	İnsanlar dans etmeye başladı.
+cause	2	Güvenlik görevlisi gözetim görüntülerini yeniden oynadı.	Gözetim kamerası odaklanmadı.	Bazı şüpheli aktiviteler fark etti.
+cause	2	Uyanış üzerine yatakta kaldım.	Açtım.	Cumartesi günüydü.
+effect	1	Adam ağır kutuyu kaldırdı.	Sırtını söndürdü.	Sırtını çizdi.
+cause	2	Kadının çantası eksikti.	Çok fazla önemsiz içeriyordu.	Denetimsiz bıraktı.
+cause	2	Kadın amnezi yaşadı.	Alerjik reaksiyonu vardı.	Bir trafik kazasına girdi.
+effect	1	Nakit almam gerekiyordu.	Bankaya gittim.	Bir cüzdan aldım.
+cause	1	Sürücü yere düştü.	Boğa biniciyi kovdu.	Boğa biniciyi kovaladı.
+effect	1	Çocuk kaslı olmak istedi.	Ağırlıkları kaldırdı.	Bilgisayar oyunları oynadı.
+effect	1	Bilim adamı bir deney yaptı.	Teorisini doğruladı.	Verilerini üretti.
+cause	2	Süt soğuk kaldı.	Pastörize edildi.	Buzdolabında sakladım.
+cause	1	Telaşlı bebek sakinleşti.	Ebeveynler bebeğin önünde çıngırak salladı.	Ebeveynler bebek için bir isim seçti.
+effect	1	Sıcak çorbaya buz küpleri koydum.	Çorba soğudu.	Çorba kalınlaştı.
+cause	1	Kız öğle yemeğini arkadaşıyla paylaştı.	Arkadaşı öğle yemeğini getirmeyi unuttu.	Arkadaşı öğle yemeğinde yanına oturdu.
+cause	1	Polis soruşturmayı kapattı.	Şüpheliyi yakaladılar.	Kurban iyileşti.
+effect	1	Yağmur azaldı.	Yürüyüşe çıktım.	İnternete göz attım.
+effect	1	Çay fincan sıcak haşlıyordu.	Üzerinde patladım.	Ben döktüm.
+cause	2	Fotoğraf soldu.	Sahte idi.	Eskidi.
+cause	2	Çocuğun siyah bir gözü var.	Zorba çocuğu alay etti.	Zorba çocuğu yumrukladı.
+effect	2	Cüzdanımı yanlış yerleştirdim.	Telefonumu geri aldım.	Adımlarımı geri çektim.
+effect	1	Avcı mühimmat bitti.	Silahı yeniden yükledi.	Geyiği hedefledi.
+cause	2	Deniz hayatı azaldı.	Tekneler okyanusta yelken açtı.	Yağ okyanusa döküldü.
+effect	2	Buz küpünü ılık suyun altında çalıştırdım.	Buz küpü parmaklarıma yapıştı.	Buz küpü kayboldu.
+cause	2	Müşteri butiğe geldi.	Cüzdanını evde bıraktı.	Pencere ekranı dikkatini çekti.
+cause	2	Adam yemekle su içti.	Onun yemeği soğuktu.	Onun yemek baharatlı.
+cause	1	Kadın halka açık yerlerden uzak kaldı.	Bulaşıcıydı.	Sarhoştu.
+effect	1	Putrid kokusu odayı doldurdu.	Elimi burnumun üzerine kenetledim.	Kauçuk eldivenleri taktım.
+cause	2	Çalışan işi kaçırdı.	Ailesi onunla temasa geçti.	Ailesinde bir ölüm vardı.
+effect	2	Mıknatıs Paperclip'i çekti.	Paperclip mıknatıstan düştü.	Paperclip mıknatısa yapıştı.
+effect	1	Bahçıvan yabani otları çekti.	Yabani otlar topraktan çıktı.	Yabani otlar tohumlar üretti.
+effect	1	Biz bir pizza sipariş.	Pizza teslim edildi.	Pizza soğudu.
+cause	1	Genç babasından daha uzun büyüdü.	Büyüme hamlesinden geçti.	Basketbol takımına katıldı.
+cause	2	Hasta riskli tıbbi prosedüre maruz kaldı.	Prosedür maliyetliydi.	Uzmanlar prosedürü önerdi.
+effect	2	Adam gömlek kolunu çitin basamaklarına yakaladı.	Çiti atladı.	Kol yırtıldı.
+cause	1	Müfettişler adamın ölümünü intihar olarak gördüler.	Bir not bıraktı.	Çocukları vardı.
+cause	2	Bilgisayar çöktü.	Dosyalarımı yedekledim.	Bir virüs indirdim.
+cause	1	Kızın ağzı ağrıyordu.	Bir diş kaybetti.	Sakızını yuttu.
+effect	1	Oda loştu.	Panjurları açtım.	Pencereleri yıkadım.
+cause	2	Baba kızını bebek arabasına koydu.	Yürümeyi öğrendi.	Onu taşımaktan bıkmıştı.
+cause	1	Casus düşmanın yerini keşfetti.	Casus düşmanın telefonunu rahatsız etti.	Casus hükümet tarafından işe alındı.
+cause	2	Masadaki gözlük döküldü.	Çocuk masaya çekildi.	Çocuk masa örtüsünü çekti.
+effect	2	Çaydandaki su kaynamaya başladı.	Çaydan soğutdu.	Çaydanlık ıslık çaldı.
+cause	2	Şehir belediye başkanını yeniden seçti.	Şehir bütçesini kesti.	Belediye başkanı vaatlerini yerine getirdi.
+cause	1	Kadın hikayenin ayrıntılarını abarttı.	Dikkat istedi.	Utangaç hissetti.
+effect	2	Kadın orta yaş krizine çarptı.	Emekli oldu.	Gökyüzü dalışına gitti.
+effect	2	Adam trajedi hakkında inkar etti.	Kolayca geçti.	Bunun hakkında konuşmayı reddetti.
+cause	2	Adam üzüldü.	Karısı onu eleştirdi.	Annesi vefat etti.
+cause	2	Kızın köpek fobisi vardı.	Terk edilmiş bir köpeği kurtardı.	Bir köpek tarafından ısırıldı.
+effect	2	Sağlıklı bir diyet yemek için bir karar verdim.	Bir yoga dersine katıldım.	Meyve ve sebze aldım.
+cause	2	Hasta komaya girdi.	Duygusal travma geçirdi.	Beyin hasarı yaşadı.
+effect	2	Arkadaşların akşam yemeği zamanı konuşması siyasete döndü.	Konuşma sessizleşti.	Bir tartışma patladı.
+cause	1	Kadın arkadaşını odanın her yerine gördü.	Kadın el salladı.	Kadın kaçtı.
+effect	1	Annenin çocuklarına bakarak yardıma ihtiyacı vardı.	Çocukları günlük bakıma gönderdi.	Çocukların velayetinden vazgeçti.
+cause	1	Sürücü kornasını korudu.	Başka bir araba şeridine girdi.	Işığa doğru bir dönüş yaptı.
+effect	2	Adam para biriktirmek istedi.	Tasarruf hesabından para çekti.	Soygun alımlar yapmayı kesti.
+cause	1	Ayakkabı koydum.	Zemin kırık cam içeriyordu.	Duvarlardaki boya ıslaktı.
+cause	1	Kütüphaneci kitabı yığınlarda buldu.	Kütüphanecinin yardımını istedim.	Kitap kontrol edildi.
+cause	1	Anne oğluyla göz seviyesi oldu.	Çömeldi.	Elini tuttu.
+cause	2	Eşyalarımı topladım.	Yeni bir daire için avlanıyordum.	Dairemden çıkıyordum.
+cause	1	Çocuk ağabeyi taklit etti.	Çocuk ağabeyine baktı.	Çocuk ağabeyi ile güreşti.
+effect	2	Kız ebeveyninin onayını istedi.	Evden kaçtı.	Ebeveyninin kurallarına uydu.
+effect	1	Kamyon köprüdeki motosiklete çarptı.	Motosikletçi öldü.	Köprü çöktü.
+cause	1	Perakende dükkanı kapandı.	Satışları gecikiyordu.	Kirasını yeniledi.
+effect	1	Yüzücü yarışı kazandı.	Altın madalya aldı.	Ekibi buluşmayı kaybetti.
+cause	1	Şehirdeki hava kirliliği kötüleşti.	Fabrikalar üretimlerini artırdı.	Fabrikalar kapandı.
+cause	1	Anne kızını azarladı.	Kızı mutfak masasına gömüldü.	Kızı mutfak masasını ayarladı.
+cause	2	Kendimi gruptan mazur gördüm.	Telefonumu kapattım.	Telefonum çaldı.
+cause	2	Kayakçı yamaçta kaydı.	Kayak direklerini düşürdü.	Bir buz yamasına çarptı.
+effect	1	Broşürdeki baskı küçüktü.	Adam gözlüklerini taktı.	Adam cebinden bir kalem aldı.
+effect	2	Işık anahtarını yukarı ve aşağı çevirdim.	Işık soldu.	Işık titredi.
+effect	2	Adamın saati kırıldı.	Otobüs durağında bekledi.	O zamanlar bir yabancı sordu.
+cause	2	Askerler fırçaya gizlendi.	Tüfeklerle silahlanmışlardı.	Kamuflaj üniformaları giydiler.
