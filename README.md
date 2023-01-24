@@ -6,6 +6,8 @@ Each example contains a premise and two possible follow-up sentences. The model 
 
 We had the original English data set human-translated to Bulgarian, Macedonian and Turkish and will perform experiments on those languages.
 
+Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
+
 ## Setting up
 
 Clone the repo:
@@ -74,6 +76,8 @@ python src/run_copa.py config/tr_xlmr_macocu.json
 
 We use the AutoModelForMultipleChoice to do the classification. This should work out of the box for most models.
 
-By default, this will average over **10 runs**, since the data set is so small. You can edit this in the `run_copa.py`` script. Average accuracies and standard deviations are printed after training.
+By default, this will average over **10 runs**, since the data set is so small. You can edit this in the ``run_copa.py`` script. Average accuracies and standard deviations are printed after training.
 
 Since training is fast, we never save any of the trained models for storage reasons. You can easily change this is in the config settings, though.
+
+Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
