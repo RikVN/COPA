@@ -4,7 +4,7 @@ This repo contains experiments in the [MaCoCu](https://macocu.eu/) project for f
 
 Each example contains a premise and two possible follow-up sentences. The model has to choose the ones which is the most plausible.
 
-We had the original English data set human-translated to Macedonian. For Bulgarian, Icelandic, Maltese and Turkish we used Google Translate. The data sets are available in the ``data/`` folder.
+We had the original English data set human-translated to Macedonian. For Bulgarian, Icelandic, Maltese and Turkish we used Google Translate. The data sets are available in the ``data/`` folder. For Turkish, we also added the [XCOPA](https://github.com/cambridgeltl/xcopa) human-translated (HT) dev and test sets for convenience.
 
 Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Icelandic](https://huggingface.co/MaCoCu/XLMR-MaCoCu-is), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Maltese](https://huggingface.co/MaCoCu/XLMR-MaltBERTa) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
 
