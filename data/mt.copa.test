@@ -1,0 +1,500 @@
+cause	1	L-oġġett kien ippakkjat fil-bżieżaq.	Kien fraġli.	Kien żgħir.
+effect	1	I tbattal il-bwiet tiegħi.	Irkuprajt stub tal-biljett.	Sibt arma.
+effect	2	Termites invadew id-dar.	It-termites sparixxew mid-dar.	It-termites kielu mill-injam fid-dar.
+effect	1	Il-vjaġġaturi laħqu l-fruntiera.	L-aġent tal-għassa kkontrolla l-passaporti tagħhom.	L-aġent tal-għassa akkużahom li għandhom kuntrabandu.
+cause	1	L-uffiċċju kien magħluq.	Kienet vaganza.	Kien is-sajf.
+cause	2	It-tifla spiċċat bla enerġija.	Hija kellha kontrolluri.	Hija qabżet il-ħabel.
+cause	2	Il-mara tilfet postha fil-linja.	Aktar nies daħlu fil-linja.	Hija telqet mil-linja.
+cause	2	It-tifla għafsa mnieħru.	It-tarbija drooled fuq il-bavalor tagħha.	It-tarbija ħammet il-ħrieqi tagħha.
+effect	1	Il-banda daqqet il-kanzunetta tal-hit tagħhom.	L-udjenza ħabbret mal-mużika.	L-udjenza semgħet b’mod politiku fis-skiet.
+effect	2	It-tifla riedet tirringrazzja lill-għalliema tal-matematika tagħha.	It-tifla baqgħet wara l-iskola għad-detenzjoni.	It-tifla ġabet lill-għalliem tuffieħ.
+cause	1	Iż-żgħażagħ campers ħassewhom jibżgħu.	Il-konsulent tal-kamp tagħhom qalilhom storja ta ’ghost.	Huma mixwi l-marshmallows fuq il-kampeġġ.
+effect	2	Ir-raġel laqat rasu.	Huwa tilef fil-ħsieb.	Huwa kiseb konkussjoni.
+cause	1	Iċ-ċekk li ktibt irkupra.	Il-kont bankarju tiegħi kien vojt.	Qlajt żieda fil-paga.
+effect	1	L-inbox tal-email tar-raġel kien mimli spam.	Huwa ħassar l-ispam.	Huwa bagħat email tal-massa.
+cause	1	Il-baħri kien kwarantina.	Huwa kien espost għall-marda.	Huwa rkupra mill-marda.
+cause	1	It-tifla memorizzat il-kodiċi.	Hija recitat lilha nfisha.	Hija nesa tiktebha.
+effect	2	I ferra l-ilma fil-ħġieġ.	L-ilma qatgħet il-għatx tiegħi.	Il-ħġieġ sar sħiħ.
+cause	2	Ir-raġel baqa ’sieket meta l-ħabib tiegħu spiċċa jitkellem.	Ried joffri appoġġ lil sieħbu.	Huwa kien qed jaħseb dwar il-kliem ta ’sieħbu.
+effect	1	L-inċident kien tort tiegħi.	Ħassejtni ħati.	I ippressat akkużi.
+cause	2	Il-katina ġiet imwarrba.	Il-katina kienet imgeżwer madwar tajer.	Kien hemm rabta miksura fil-katina.
+cause	1	Il-koppja ddeċidiet li tikkomprometti.	Huma kibru għajjien li jargumentaw.	Huma evitaw li jiddiskutu l-problema.
+effect	1	Il-mara ddeċidiet li tmexxi għall-kariga pubblika.	Hija mikrija maniġer tal-kampanja.	Hija xehdet fil-qorti.
+effect	1	Ir-raġel antiċipa t-temp kiesaħ waqt il-vjaġġ tiegħu.	Huwa ppakkja ħwejjeġ sħun fil-bagalja tiegħu.	Huwa vvjaġġa b’bagalja kbira.
+effect	1	L-istudent kien jaf it-tweġiba għall-mistoqsija.	Huwa għolla idu.	Huwa jitlaq.
+cause	1	L-għajnejn tar-raġel isiru.	It-trab daħal f’għajnejh.	Huwa poġġa nuċċalijiet fuq għajnejh.
+effect	1	Il-plejer rebaħ ħames logħbiet konsekuttivi.	L-avversarju tagħha akkużaha li qerq.	L-avversarju tagħha ħassu dispjaċut għaliha.
+cause	1	L-għalliem qatta ’l-eżami tal-istudent.	Huwa qabad lill-istudent iqarraq.	It-tweġibiet tal-istudent ma kinux korretti.
+cause	2	I waqfa qasira biex tieqaf titkellem.	Tlift il-vuċi tiegħi.	I spiċċa n-nifs.
+cause	1	L-ikel iffriżat jinħall.	Qiegħedha fil-microwave.	I koperti bi wrap tal-plastik.
+cause	2	L-impjegat iffalsifikat.	Kellu bugħawwieġ fl-istonku.	Ried ġurnata ta 'mistrieħ.
+cause	2	It-tifla żbarkata fil-pixxina.	Hija dam fuq il-gverta tal-pixxina.	Hija qabżet mill-bord tal-għadis.
+cause	1	Il-biljetti tal-film inbiegħu.	Kienet il-ġurnata tal-ftuħ għall-film.	Il-film irċieva reviżjonijiet foqra.
+effect	2	Ir-raġel tilef il-piż.	In-nies iżolawh.	In-nies ikkumplimentawh.
+cause	2	L-idejn tat-tifla saru nfafet.	Hija ttajpjat ittra.	Hija telgħet ħabel.
+effect	1	L-artist taċ-ċirku juggled waqt li riekeb iċ-ċikliżmu.	L-udjenza tifraħ bl-istagħġib.	L-acrobat tbandal minn trapez.
+cause	1	Tlift il-paċenzja tiegħi.	Ħabib tiegħi żammni nistenna.	Ħabib tiegħi wasal fil-ħin.
+effect	2	Il-pajjiżi tal-gwerra riedu l-paċi.	Huma żviluppaw armi nukleari.	Huma nnegozjaw trattat.
+effect	1	Ir-raġel ħa medikazzjoni għall-irqad.	Huwa sar ħnieżer.	Huwa mexxa deni.
+effect	2	Il-mara ttellgħet fis-sufan.	Ir-riġel tas-sufan ħareġ maħlul.	Hija tbenġil l-irkoppa tagħha.
+effect	1	It-tifel għafas il-bużżieqa.	Il-bużżieqa feġġet.	Il-bużżieqa ttajjar.
+effect	1	Huma vjaġġaturi kkontrollaw fil-kamra tal-lukanda tagħhom.	Huma ppakkjaw il-valiġġi tagħhom.	Huma marru l-ajruport.
+effect	2	Jien naqta 'l-ħawħ.	Il-ħawħ imbenġla.	Meraq imxerred barra.
+cause	1	Idejja saru twaħħal.	Kilt donut.	Kelli sinna ħelwa.
+effect	1	I imbuttat il-bieb.	Il-bieb jinfetaħ.	Il-bieb imsakkar.
+cause	2	Attivisti bojkottjaw il-prodotti.	Il-prodotti ġew ittestjati għall-assigurazzjoni tal-kwalità.	Il-prodotti ġew manifatturati permezz tax-xogħol tat-tfal.
+effect	2	I imtaqqba toqba fil-ħajt.	Ġurdien jitkaxkru mit-toqba.	It-trab sploda mit-toqba.
+cause	1	Il-mara ħassitha għira ta ’oħtha.	Oħtha kienet kuntenta.	Oħtha ddivorzjat.
+effect	2	I xerred inbid fuq il-flokk tiegħi.	Qiegħed fardal.	Biddilt il-flokk tiegħi.
+cause	2	Il-kaxxier fetaħ il-cash register.	Il-klijent fittex il-kartiera tiegħu.	Il-klijent ta l-flus tagħha.
+effect	1	Il-mużiċist tat-triq ġibed folla.	In-nies tawh bidla.	Huwa bagħat lill-folla 'l bogħod.
+cause	1	It-tifel żgħir għajjat ​​lill-babysitter tiegħu.	Huwa falla lill-ġenituri tiegħu.	Kien il-ħin tas-snack.
+effect	1	Ir-radar tal-pilota skopra maltempata.	Il-pilota naviga 'l bogħod mill-maltempata.	Il-pilota taru minn ġol-maltempata.
+effect	2	Is-siġra titfa ’l-weraq tagħha.	Il-weraq imdawwar kuluri.	Il-weraq akkumulati fuq l-art.
+effect	2	It-tifel kien fi burdata ħażina.	Huwa ddeċieda li jilgħab logħba tal-karti ma 'oħtu.	Huwa ddeċieda li jdoqq ċajta prattika fuq oħtu.
+effect	2	It-tifel ilmenta li kellu jmur il-kamra tal-banju.	Missieru tah soda biex jixrob.	Missieru waqqaf il-karozza fi stazzjon tal-gass.
+effect	2	It-tifel imbexxex ikel tal-ħut fit-tank.	Il-ħut qabża mit-tank.	Il-ħut swam lejn l-ikel.
+effect	1	Il-fehmiet politiċi tal-mara nbidlu.	Hija qalbet l-affiljazzjoni tal-partit tagħha.	Hija involuta fi protesta.
+effect	2	Is-sink tal-kamra tal-banju kien misdud.	Jien iddawwar il-faucet.	I tferra 'drenaġġ aktar nadif ġo fiha.
+cause	1	Il-passiġġieri telqu mill-ferrovija.	Il-ferrovija waslet fl-istazzjon.	Il-ferrovija ħarġet is-suffara tagħha.
+effect	2	Ir-raġel ippressat 'l isfel fuq il-ġewnaħ niedja tal-pakkett.	Huwa poġġa timbru fuq l-envelop.	Huwa ssiġilla l-pakkett magħluq.
+cause	2	Il-ħbieb tilfu l-kuntatt.	Huma gawdew il-kumpanija ta ’xulxin.	Huma marru jgħixu fi bliet differenti.
+effect	1	L-accountant immaniġġja ħażin il-fondi tal-kumpanija.	Hija ġiet sparata mill-pożizzjoni tagħha.	Hija marret fuq leave tal-maternità.
+cause	2	Fittixt l-arloġġ.	Smajt l-arloġġ immarka.	Jien ridt niċċekkja l-ħin.
+cause	1	Idejja mdgħajfa.	Ktibt l-esej bl-idejn.	Marti u jien żammna l-idejn.
+cause	2	Il-bolt issikkat.	Bdilt il-bolt.	I mibrum il-wrench.
+effect	1	Il-koppja ffirmat kirja għal appartament.	Il-koppja marret fl-appartament.	Il-belt ikkundannat l-appartament.
+cause	1	Il-mara poġġiet barra fuq il-loġġa.	Hija riedet tara l-estinzjoni.	Hija ħasbet li rat sajjetti.
+cause	1	Ir-raġel kien jilbes il-ħajja tas-salvataġġ fl-ilma.	Ma setax jgħum.	L-ilma kien baxx.
+effect	2	Il-mara għamlet typo fil-proċessur tal-kliem.	Hija ħassar id-dokument.	Hija laqat iċ-ċavetta ta 'wara.
+cause	2	It-tifla bragged lil sħabha.	Qabbdet grad ħażin.	Hija rebħet konkors.
+cause	1	Il-lawn kienet tajn.	Tferra matul il-lejl.	Kien mimli ħaxix ħażin.
+cause	2	Il-mara żejda.	Hija qagħdet il-lejl f'lukanda.	Hija nesa li tissettja l-arloġġ tal-allarm tagħha.
+cause	2	Ir-raġel poġġa protezzjoni mix-xemx.	Huwa poġġa fid-dell.	Huwa mar il-bajja.
+effect	2	Ir-riċerkaturi wrew it-teorija.	Ir-riċerkaturi rtiraw it-teorija.	Individwi aċċettaw it-teorija.
+cause	2	Il-fannijiet fil-logħba booed.	Il-logħba marret fis-sahra.	Ir-referi għamel sejħa ħażina.
+effect	2	Dħalt fil-kombinazzjoni tiegħi fuq is-serratura.	Għalaq is-serratura.	Is-serratura feġġet.
+effect	2	Il-folla intensifikat.	Il-missier qassam lil ibnu xi flus.	Il-missier qabad idejh ibnu.
+effect	2	Il-borra kienet timblokka t-triq.	I ġabru l-borra ġo boċċa tas-silġ.	I shoveled il-borra barra mill-mod.
+effect	1	Il-kayakers ikkuttunat l-imqadef tagħhom.	Il-kayak laħaq ix-xatt.	Il-kayak laqat mewġa.
+effect	2	It-tifla tilfet il-kontroll tar-rota tagħha.	Hija ħarġet mill-pumi.	Hija ġġarraf f'ċint.
+effect	2	Jien iddawwar il-fann.	L-ilma imbexxex fuq il-ġilda tiegħi.	Ħassejt l-arja friska tgħaddi fuqi.
+cause	2	Is-surfers reġgħu lura lejn il-bajja.	Kienu mdendlin.	Huma raw kelb il-baħar.
+effect	1	Ġibt il-plagg tal-fossa fil-bathtub.	L-ilma mbattal mit-tub.	L-ilma splashed fuq l-art.
+effect	2	Ir-raġel ħassu ħati dwar qerq fuq martu.	Huwa akkużaha b'infedeltà.	Huwa stqarr l-infedeltà tiegħu lejha.
+cause	2	Il-linka fuq il-poster imnebbgħin.	Stennejt li l-linka tinxef.	I xerred l-ilma fuq il-poster.
+cause	1	It-tifel qajjem jgħajjat.	Kellu ħmarillejl.	Huwa mxarrab is-sodda.
+effect	2	It-tifel poġġa saqajh fuq il-mejda.	Missieru poġġa bilqiegħda fuq il-mejda.	Missieru tah.
+cause	1	Ħabib tiegħi daru rasu fid-direzzjoni tiegħi.	Għajjat ​​ismu.	I xxejret l-armi tiegħi.
+effect	1	Il-gvern oppressa liċ-ċittadini tiegħu.	Iċ-ċittadini tellgħu rewwixta.	Iċ-ċittadini rreġistraw biex jivvutaw.
+effect	2	It-tifel kien mitluf fil-boskijiet.	Huwa pitched tinda.	Huwa għajjat ​​għall-għajnuna.
+cause	2	Il-mara vvjaġġat barra mill-pajjiż.	Hija riedet titgħallem kif tiġbed.	Hija riedet titgħallem dwar kulturi oħra.
+cause	1	Ir-raġel kien jealous tal-coworker tiegħu.	Il-coworker tiegħu kisbu promozzjoni.	Il-coworker tiegħu ħadem tard.
+cause	1	Ir-raġel ra l-aljeni.	Huwa kien alluċinanti.	Huwa kien qed jimmedita.
+cause	1	Ix-xagħar tar-raġel sar blond.	Huwa poġġa bliċ fiha.	Huwa poġġa xampù fih.
+cause	2	L-artist ħoloq xogħol ġdid.	Hija kkritikat ix-xogħol preċedenti tagħha.	Hija ħasset puplesija ta ’ispirazzjoni.
+cause	2	L-iben tbiegħed mid-dar.	Huwa ġie mormi mill-militar.	Huwa kien sejjer il-kulleġġ.
+cause	2	Il-kotba waqgħu mill-ktieb.	L-ixkafef kienu mgħottija bit-trab.	Terremot ħawwad il-ktieb.
+effect	2	L-elettriku fid-dar tiegħi jintefa.	Jien mixgħul dawl.	Irrisettja s-salvavita.
+cause	2	Aħna rode r-roller coaster.	Deher tal-biża '.	Deher divertenti.
+cause	2	Il-borża tal-popcorn bdiet tinfetaħ.	I ferra butir fil-borża.	I Saħħan fil-microwave.
+effect	1	Siġra waqgħet fuq il-linja tal-enerġija.	L-elettriku fil-viċinat ħareġ.	It-tbassir bassar irjieħ tqal.
+effect	2	Il-kelliem għamel kummenti politikament skorretti.	Huwa jiddejjaq lill-udjenza.	Huwa offenda l-udjenza.
+effect	2	I qabdet lili nnifsi bil-brilli.	Xoffa ta 'għaraq inqatgħet minn wiċċi.	Qatra ta 'demm iffurmata fuq subgħajk.
+cause	2	Il-ħut imqiegħed fuq il-wiċċ tat-tank.	Kien bil-ġuħ.	Kien mejjet.
+cause	1	Il-vuċi tar-raġel tinstema 'maħnuq.	Kellu kesħa.	Huwa nieqaf ipejjep.
+cause	1	Il-bibien tal-lift jinfetħu.	Il-lift wasal fl-art magħżula.	Il-lift weħel bejn l-art.
+cause	2	Iż-żagħżugħ snuck barra mid-dar.	Huwa gideb lill-ġenituri tiegħu.	Il-ġenituri tiegħu bbażatlu.
+cause	1	Il-kamra tal-banju mgħarrqa.	It-tojlit tfur.	Il-water heater kissru.
+cause	2	Il-ġeru baqa ’ħdejn is-sid tiegħu.	Is-sid poġġa għonq fuq il-ġeru.	Is-sid żamm il-ġeru fuq leash.
+cause	2	Ir-raġel qabad ir-riflessjoni tiegħu.	Huwa kien taħt is-siġra li tifrex.	Huwa kien fuq il-lag kalm.
+effect	1	Tlift it-telefonata tal-ħabiba tiegħi.	Ċempiltha lura.	Iltqajt magħha għall-pranzu.
+cause	1	Il-familja fittxet il-viċinat.	Il-kelb tagħhom ħarab mid-dar.	Ġojjellerija għalja kienet nieqsa mid-dar tagħhom.
+cause	1	Rajt in-nifs tiegħi meta exhaled.	It-temp kien frisk.	Sider tiegħi ħassu strett.
+cause	1	L-impjegati ffurmaw unjoni.	Huma riedu kundizzjonijiet tax-xogħol aħjar.	Min iħaddem għolla l-pagi tiegħu.
+effect	2	I moħmi torta tat-tuffieħ.	Riħa ta 'taħsir mimlija l-kċina.	Aroma sħuna mlew il-kċina.
+cause	1	Il-mara tħabat biex timxi.	Hija kienet tilbes takkuna għolja.	Hija neħħiet iż-żraben tagħha.
+cause	1	Il-fwar żdied mill-borma tal-ilma.	L-ilma mgħolli.	I koperti l-borma.
+effect	1	Il-kalzetti kollha tiegħi kienu fil-ħasil tal-ħwejjeġ.	Ilbes sandlijiet.	Ilbes stivali.
+effect	1	L-argument tal-politikant kien ikkunsidrat bħala assurd.	Huwa tilef l-appoġġ tal-votanti.	Huwa ġie akkużat b’korruzzjoni.
+effect	2	Kulħadd ma approvax l-impenn tal-koppja.	Il-koppja ħarġet tqila.	Il-koppja eloped.
+cause	2	Il-bini kien iddedikat lill-miljunarju.	Il-miljunarju ried li l-bini jinqata '.	Il-miljunarju kkontribwixxa l-fondi biex jibniha.
+cause	1	L-assoċjat tal-bejgħ akkuża lit-tifla li serqet.	L-assoċjat tal-bejgħ ra lit-tifla tpoġġi merkanzija fil-portmoni tagħha.	L-assoċjat tal-bejgħ għen lit-tifla ssib il-portmoni li kienet togħġobha.
+effect	1	Il-pajjiż iddikjara gwerra fit-territorju ġirien.	Suldati ntbagħtu biex jiġġieldu.	Is-suldati ngħaqdu mill-ġdid mal-familji tagħhom.
+effect	1	Il-qorti kkonfermat id-deċiżjoni kontroversjali.	Irvellijiet kissru maħlula quddiem il-courthouse.	Koppja skambjaw voti quddiem il-courthouse.
+cause	2	It-tifla xamm xi ħaġa li tinħaraq.	Hija ħadet il-cookies mill-vażett.	Hija ħalliet il-cookies fil-forn.
+effect	2	Ix-xita kienet tferra 'l isfel.	Il-maltempata marret għall-agħar.	I marxa biex tidħol ġewwa.
+cause	2	Il-bini ġie evakwat.	Il-lift waqaf jiffunzjona.	L-allarm tan-nar spiċċa.
+effect	2	Il-missier irriżenja mill-alkoħoliżmu ta ’ibnu.	Il-missier xtara birra lil ibnu.	Il-missier ħareġ lil ibnu barra mid-dar.
+cause	2	L-avukat ħa t-taraġ sal-uffiċċju tagħha.	Is-segretarju mar id-dar għall-ġurnata.	Il-lift kien barra mill-ordni.
+cause	1	Ir-raġel sar imdejqa ma ’sieħbu.	Sieħbu waqqaflu.	Sieħbu xtarah ikla.
+effect	1	It-tifla qatgħet flusha lill-kaxxier.	Il-kaxxier ta lit-tifla l-bidla tagħha.	Il-kaxxier nesa li jagħti rċevuta lit-tifla.
+cause	1	Il-mara tqiegħdet f’siġġu tar-roti.	Hija ġiet paralizzata f'inċident.	Hija daħlet l-isptar fi stretcher.
+cause	1	Iċ-ċittadini mdendlin il-bandiera nazzjonali barra minn djarhom.	Il-pajjiż kien qed ifakkar l-indipendenza tiegħu.	Il-pajjiż kien qed jiffaċċja tbatija ekonomika.
+effect	1	It-tim tilef il-kampjonat.	Huma ddiżappuntaw lill-partitarji tagħhom.	Huma ispiraw lill-partitarji tagħhom.
+effect	1	Sieħbi rrimarka li kelli ikel mwaħħal fis-snien tiegħi.	Ħassejtni imbarazzat.	Ħassejtni kburi.
+cause	2	It-tifel falla l-eżami tal-istorja tiegħu.	Huwa ta attenzjoni fil-klassi.	Huwa nesa jistudja.
+cause	1	Il-bini taċ-ċentru waqa '.	Terremot laqat il-belt.	Ir-rati tal-kriminalità fil-belt żdiedu.
+effect	1	It-tfajla tar-raġel kissret miegħu.	Huwa talabha biex teħodha lura.	Hija introduċietha lill-ġenituri tagħha.
+effect	2	Iż-żewġt itfal fl-istess ħin laħqu l-isfel biex jirkupraw il-ballun.	Il-ballun jinqaleb.	Il-kapijiet tagħhom ħabtu.
+cause	2	Ir-raccoon ransacked il-bott taż-żibel.	Kien hemm kartun fil-bott taż-żibel.	L-għatu kien barra mill-bott taż-żibel.
+cause	2	It-tifel imqaxxar il-lapes.	Kien irħis.	Kien matt.
+cause	1	Il-kaxxier ċaħad lill-mara rifużjoni għall-libsa.	Hija tilfet l-irċevuta tagħha.	Il-libsa ma kinitx toqgħod.
+effect	2	Il-bidu fil-ġilda tiegħi kien fil-fond.	Huwa fieq malajr.	Ħalla ċikatriċi.
+cause	2	Ir-raġel irċieva dehriet strambi mill-passiġġieri fuq il-ferrovija.	Huwa kien iħares lejn l-art.	Huwa kien qed jitkellem miegħu nnifsu.
+effect	1	It-tifel ħalla l-frak fuq l-art.	In-nemel jitkaxkru mal-frak.	It-tifel poġġa l-ħobż.
+cause	2	Il-mara tat lil oħtha tessut.	Oħt il-mara mitwija idejha.	Oħt il-mara bdiet tibki.
+cause	2	Ir-raġel ħa zekka.	Xofftejh kienu chapped.	Huwa inkwetat dwar nifs ħażin.
+cause	1	Il-koppja telqet kmieni għall-ispettaklu.	Huma antiċipaw it-traffiku madwar it-teatru.	Huma kisbu direzzjonijiet lejn it-teatru.
+effect	2	Il-mara baqgħet id-dar mix-xogħol.	Il-boxxla tagħha faħħretha.	Il-coworker tagħha kopra għaliha.
+cause	1	Ir-raġel iffirma l-petizzjoni tal-attivisti.	Huwa appoġġa l-kawża tagħhom.	Huwa ddenunzjahom bħala miġnun.
+cause	1	Il-qalb tal-attur kienet fluttering qabel il-prestazzjoni tiegħu.	Kellu biża 'fil-palk.	Huwa memorizza l-linji tiegħu.
+effect	2	Tlift.	Għaddejt il-flus tiegħi.	I fehmet mappa.
+effect	2	Il-frott misjur wieqaf fix-xemx.	Kien jittiekel.	Huwa jinxtorob.
+cause	2	Il-karozza kissret.	Jien biddilt l-ignition.	Il-magna tissaħħan iżżejjed.
+effect	2	Ir-raġel weġġa ’dahru.	Huwa mar jara psikjatra.	Huwa baqa 'fis-sodda għal diversi jiem.
+cause	2	Bdejt nar fil-nar.	Kont barra mill-ħatab.	Kien kiesaħ fid-dar.
+cause	1	Il-mara waqfet jogging.	Qabbdet bugħawwieġ fil-ġenb tagħha.	Qabbdet it-tieni riħ.
+effect	1	I ħabbat fuq il-bieb tal-proxxmu tiegħi.	Il-proxxmu tiegħi stedinni.	Il-proxxmu tiegħi ħalla d-dar tagħha.
+cause	1	Il-mara ffirmat bi frustrazzjoni.	Żewġha ma fehemx it-tħassib tagħha.	Żewġha kissed addiju tagħha.
+cause	1	L-għalliem faħħar lill-istudent.	L-istudent wieġeb il-mistoqsija b'mod korrett.	L-istudent eżita biex iwieġeb il-mistoqsija.
+effect	2	Il-mara spiċċat bla bajd.	Hija marret fir-razzett.	Hija marret fis-supermarket.
+effect	2	Iltqajt ma 'ħabib antik.	Żvela sigriet lilu.	I tatu tgħanniqa.
+cause	2	Il-mara evitat li tmur fil-lag.	Qabdet ħut.	Deher ikkontaminat.
+cause	1	L-istudent wasal għall-klassi jixxarrab.	L-umbrella tiegħu kienet miksura.	Ir-rota tiegħu kienet misruqa.
+cause	2	Il-cursor fuq l-iskrin tal-kompjuter mexa.	L-utent ikklikkja l-maws.	L-utent qalbu l-maws.
+cause	1	Ix-xufier ħa dawra.	Inċident seħħ fit-triq prinċipali.	Hija segwiet it-trakk quddiem tagħha.
+effect	1	I mdendla l-bjankerija mxarrba fuq il-ħwejjeġ ta 'barra.	Il-bjankerija mnixxfa.	Il-bjankerija mtebbgħin.
+cause	1	Il-mara poġġiet l-ilwien tagħha.	Id-dawl tax-xemx kien qawwi.	Hija faħħret kabina.
+cause	2	Ir-raġel ħares lejn is-sema bil-lejl.	Huwa xtaq li kien is-sajf.	Huwa ħaseb li kien sabiħ.
+effect	1	Ħassejtni eżawrit.	Mort norqod kmieni.	Bqajt il-lejl kollu.
+cause	2	Ir-raġel mar għand il-barbier.	Huwa kien qed jikber ix-xagħar tiegħu.	Ix-xagħar tiegħu kien qed idum.
+cause	2	It-tifel lagħab tricks medji fuq sieħbu tal-klassi l-ġdid tiegħu.	It-tifel laqa ’lil sieħbu tal-klassi l-ġdid.	It-tifel ma qagħadx lill-klassi l-ġdida.
+cause	1	I xtaq tazza ħalib.	Kont qed niekol cookies.	Jien kont ħami l-ħobż.
+effect	1	Bdiet ix-xita.	Ix-xufier iddawwar il-fanali ta ’quddiem.	Ix-xufier qalbu l-karozza f'lura.
+effect	2	Il-parkeġġ tal-bini kien vojt.	I pparkjat fit-triq.	I pparkjat ħdejn id-daħla.
+cause	1	Il-kittieb falla l-iskadenza tagħha għall-abbozz ta ’sottomissjoni.	Kellha blokka tal-kittieb.	Hija editjat l-abbozz.
+cause	1	L-assoċjat iddendel fuqi.	Tlabt biex nitkellem ma 'superviżur.	I pprovdejt in-numru ta 'identifikazzjoni tiegħi.
+effect	2	Ir-riħ sploda mit-tieqa miftuħa.	Il-bieb tal-bieb daqq.	Il-purtieri jinxtegħlu.
+cause	2	L-elettriku fid-dar tiegħi jintefa.	I smajt il-lampa.	Jien sploda fjus.
+cause	2	Il-weightlifter grunted.	Huwa għawweġ il-muskoli tiegħu fil-mera.	Huwa neħħa l-bar fuq rasu.
+effect	2	L-istudent ipprova jagħmel il-matematika fir-ras tiegħu.	Huwa ħareġ kalkulatur.	Huwa ġie konfuż.
+cause	2	It-tarbija rieqda.	Il-missier biddel il-ħrieqi tat-tarbija.	Il-missier tbandal bil-mod it-tarbija.
+effect	2	It-tifla xeħtet il-bużżieqa tal-ilma għand it-tifel.	It-tifel irċieva konkussjoni.	It-tifel jixxarrab.
+effect	1	Il-fotografu nesa juża l-flash fuq il-kamera.	Ir-ritratti rriżultaw mċajpra.	Kulħadd fir-ritratti rrifjuta li jitbissem.
+cause	2	Irrifjutat l-istedina għall-festa ta 'għeluq snin.	Jien kont solitarju.	Jien kont barra mill-belt.
+cause	1	Jien eżerċita.	Ħassejtni enerġetiku.	Kont nibża '.
+effect	2	I għafas l-isponża niedja.	Huwa jixxarrab l-ilma.	L-ilma maqtugħ minnu.
+cause	2	Il-vaganti ħadu lanċa lejn il-resort.	Il-resort kien ibbukkjat.	Il-resort kien fuq gżira.
+cause	2	Iż-żagħżugħ kiseb tatwaġġ.	Kienet tibża 'mill-labar.	Riedet tirribella.
+effect	1	Karozza mhux familjari pparkjata barra d-dar tiegħi.	Sirt suspettuż.	Ċempilt lill-pulizija.
+cause	1	Il-kriminali daru lilu nnifsu.	L-evidenza implikat lilu.	Ma kien hemm l-ebda evidenza kontrih.
+effect	1	Ir-raġel Heavyset iddeċieda li jitlef il-piż.	Huwa qata 'l-ħelu.	Huwa evita l-kaffeina.
+effect	1	It-tifla telgħet fuq is-silġ.	Hi tiżżerżaq.	Hi tkebbes.
+cause	1	Il-mara kellha ċrieki taħt għajnejha.	Hija qagħdet il-lejl kollu.	Hija poġġiet lil binha fis-sodda.
+cause	1	Lava ħarġet mill-vulkan.	Il-vulkan faqqa '.	Il-vulkan kien rieqed.
+cause	2	Il-mara poġġiet iż-żraben tagħha.	Kienet taf lil kulħadd fil-festa.	Hija riedet titlaq mill-festa.
+effect	1	Ħallast il-lavrant tat-tollbooth.	Hija ħalluni ngħaddi mit-tollbooth.	Hija żammetni fit-tollbooth.
+cause	2	L-eżekuttiv fallut.	Huwa biegħ l-istokk tal-kumpanija tiegħu.	Huwa ħlaq il-fortuna tiegħu.
+cause	2	Ir-raġel mar għand it-tabib.	It-tabib kien fuq leave.	Ir-raġel ħassu ħażin.
+cause	1	Ħriġt il-kamra tas-sodda tiegħi mit-tieqa.	Id-dar kienet in-nar.	Id-dar kienet vojta.
+cause	1	Is-swaba tat-tifel saru pruny.	Huwa ħa doċċa twila.	Huwa lathered idejh bis-sapun.
+cause	1	I bżiq il-ħalib.	Il-ħalib għandu togħma qarsa.	Ħalqi kien niexef.
+effect	2	Tlift ix-xarabank.	Kont kmieni għax-xogħol.	Wasalt tard biex naħdem.
+effect	2	It-trakk ħabat mal-karozza.	It-trakk ħaffef.	Il-karozza qabdet.
+effect	1	It-tim ġab il-konkors favur tagħhom.	Huma rebħu.	Huma waqgħu.
+cause	2	Il-flixkun tas-soda sismu.	Jiena ddawwar il-flixkun.	I mibrum mill-kappa.
+effect	1	It-tifel kien maqful barra mid-dar tiegħu.	Huwa mkaxkar minn ġol-tieqa miftuħa.	Huwa telgħu sal-bejt.
+effect	2	Il-bieb tal-bieb daqq.	Il-viżitatur sfruttat il-knocker fuq il-bieb.	Il-mara ħarset mill-keyhole fil-bieb.
+effect	1	Ir-raġel mtebba ’l-libsa tiegħu.	Huwa ġabha mnaddfa niexfa.	Huwa mdendel fil-closet tiegħu.
+effect	1	It-tifla għafas it-tubu tat-toothpaste.	It-toothpaste squirted mit-tubu.	It-tifla bżiq it-toothpaste.
+effect	1	L-imwiet ċivili mill-gwerra żdiedu.	Il-paċifisti tellgħu protesta.	Il-paċifisti kellhom parata.
+cause	2	It-tifla ħabbtet iż-żigarella minn xagħarha.	Hija marbuta ż-żigarella.	Iż-żigarella dehret babyish.
+effect	2	Ir-raġel kiseb kirurġija plastika.	Huwa ta 'età.	Huwa deher iżgħar.
+cause	1	Tiġieġ tat-trabi ħareġ mill-bajda.	Il-bajd imfaqqas.	I cracked il-bajda.
+effect	1	Il-priġunier bil-ġuħ.	Miet.	Huwa ħarab.
+effect	2	Ir-raġel tilef il-bilanċ tiegħu fuq is-sellum.	Huwa tela 's-sellum.	Huwa waqa 'mis-sellum.
+cause	1	It-tifel burped.	Huwa ħa swig ta 'soda.	Huwa fetaħ il-bott tas-soda.
+effect	2	Abbozz kiesaħ daħal mit-tieqa.	Jien rilassat.	I shivered.
+cause	2	L-istudent irċieva borża ta ’studju biex tmur il-kulleġġ.	Sħabha tal-klassi rrispettawha.	Hija għamlet gradi tajbin.
+cause	2	It-tifla ħadet gost għand it-tifel.	Hija għexet ħdejn lejh.	Kellha tgħaffiġ fuqu.
+cause	2	Il-Vagrant bil-ġuħ seraq ikel.	Huwa inċitat ħasra.	Huwa ma kellu l-ebda flus.
+cause	2	Ċempilt lil sieħbi biex chat.	Jien ridt il-privatezza.	Ħassejtni solitarju.
+effect	1	Ir-raġel estenda idu lejja.	I ħawwad idu.	I slapped lilu.
+cause	2	I papra.	Il-logħob tan-nar nieda fl-arja.	Il-Frisbee telgħet lejn rasi.
+cause	1	It-tifla gdim id-dwiefer tagħha.	Kienet inkwetata.	Kienet sorpriża.
+cause	2	Jien biddilt il-paġna fuq il-kalendarju.	Immarkajt appuntament fuq il-kalendarju.	Kien il-bidu ta 'xahar ġdid.
+effect	2	Ir-raġel skopra li martu kellha affari.	Huwa spara l-avukat tiegħu.	Huwa ppreżenta d-divorzju.
+effect	1	It-tifla waqgħet il-ballun tal-gomma.	Il-ballun irkupra.	Il-ballun glowed.
+effect	2	It-tifla għamlet żball fuq l-eżami tagħha.	Hija qtajt bir-risposta.	Hija ħassret it-tweġiba tagħha.
+effect	2	Il-plejer ittratta lill-avversarju tiegħu.	L-avversarju tiegħu qabad il-pass.	L-avversarju tiegħu laqat l-art.
+cause	1	Jien qabad it-tadam mid-dwieli.	Kienu misjura.	I mogħtijahom.
+effect	2	Ir-raġel ried jaġixxi romantiku.	Huwa ltaqa 'mal-ex-ħabiba tiegħu għall-ikel.	Xtara ċ-ċikkulati tal-ħabiba tiegħu.
+cause	2	Il-merkurju fit-termometru żdied.	Waqt it-termometru.	It-temp sar aktar sħun.
+effect	1	Tornado ħareġ mill-belt.	Is-saqaf tal-qorti sploda.	L-awtostrada saret tħaddan perikoluża.
+effect	1	L-istudent irċieva tutoring.	Il-gradi tiegħu tjiebu.	Huwa qarraq bl-eżami.
+cause	2	Ħassejtni komdu.	I għarkupptejt fuq l-art.	I mgeżwer lili nnifsi fi kutra.
+effect	2	I illustrat il-ġebla.	Dan sar jiżloq.	Sar tleqq.
+effect	2	Żid iz-zokkor mal-kafè.	Il-kafè jinxtamm qawwi.	Il-kafè għandu togħma ħelwa.
+effect	1	Ir-raġel ħawwad mill-karti.	Huwa kiseb qatgħa tal-karta.	Huwa qatta 'l-karti.
+effect	1	I msawra d-dwiefer bil-martell.	Id-dwiefer għereq fl-injam.	Id-dwiefer sar rusty.
+effect	1	Il-ħut gdim il-linja.	Is-sajjied ingħata fil-ħut.	Is-sajjied ifassal mill-ġdid il-linja.
+cause	1	Iż-żagħżugħ kien imbarazzat li jmur l-iskola.	Qabbdet pimple.	Qabbdet iċ-ċingi tagħha.
+cause	1	L-espressjoni tal-wiċċ tiegħi mixgħula.	Irċevejt aħbar tajba.	Tlift il-paċenzja tiegħi.
+cause	2	Imsaħ idejja b'xugaman.	Ix-xugaman kien imxarrab.	Idejja kienu mxarrba.
+cause	1	Ir-raġel tilef il-bilanċ tiegħu fuq l-ippurgar.	L-ippurgar wobbled taħtha.	Huwa xerred iż-żebgħa fuq l-ippurgar.
+cause	1	Sieħbu dderieġu t-tort lejn xulxin.	Huma tilfu l-logħba tagħhom.	Il-kowċ tagħhom ikkanċella l-prattika.
+cause	1	Tlabt maħfra.	Iddispjaċih mill-iżball tiegħi.	Ksibt l-għan tiegħi.
+cause	2	Il-mara saret imtaqqba bid-data tagħha.	Huwa staqsiet il-mistoqsijiet tagħha dwarha nfisha.	Huwa tkellem bla heda dwaru nnifsu.
+effect	2	It-tifla qabdet tbissima.	Il-ħaddejn tagħha ħamra.	Id-dimples tagħha wrew.
+cause	1	Il-vapur tal-għadu sploda.	Hija għaddiet minn fuq il-mini.	Huwa baħħar fil-port.
+cause	2	Ir-raġel taqqab siequ.	Huwa telaq ġo pudina.	Huwa mexa fuq ħġieġ miksur.
+effect	1	Id-ditektifs imxerrda x-xena tad-delitt għall-marki tas-swaba '.	Huma skoprew l-identità tal-qattiel.	Huma sabu l-arma fuq il-post tad-delitt.
+effect	1	Kien hemm ħafna traffiku fuq l-awtostrada.	Ħadt dawra.	Tlabt rikba.
+effect	2	L-ekonomija tan-nazzjon naqset.	Ħafna nies morda.	Ħafna nies iffaċċjaw il-qgħad.
+cause	1	Il-gwardja tal-qsim splodiet is-suffara tagħha fit-tfal.	Kienu waslu biex jimxu fit-traffiku li jmiss.	Hi rrikonoxxiethom mill-viċinat tagħha.
+cause	2	Irrumblajt għajnejja għand ħabib tiegħi.	Qalli l-verità.	Huwa għamel rimarka sarkastika.
+effect	1	Il-karozza spiċċat bla gass.	Ix-xufier kien mitluq fit-triq.	Ix-xufier qabad hitchhiker.
+effect	1	Il-mara marret taħdem.	It-tarbija twasslet.	Il-mara kellha mard filgħodu.
+cause	2	Il-kappell tar-raġel sploda.	Huwa neħħa l-kappell.	Kien irjiħat barra.
+cause	1	It-tifla attendiet il-festa ta 'għeluq is-sieħbu tal-klassi tagħha.	Hija rċeviet stedina.	Hija xtrat rigal.
+effect	1	Il-forehead tat-tifel ħassu sħun.	Ommu ħadet it-temperatura tiegħu.	Ommu ħaduh fil-park.
+cause	1	Ir-raġel sprejja ruħu ma ’Cologne.	Ried jimpressjona d-data tiegħu.	Huwa poġġa ġel fix-xagħar tiegħu.
+effect	1	L-elettriku fid-dar jintefa.	Fittixt flashlight.	Jien qabad pala.
+cause	2	Il-familja marret f’dar ikbar.	L-iben iggradwa mill-iskola għolja.	L-omm welldet tewmin.
+cause	1	Il-maratona tinżamm bil-mod.	Hija riedet tikkonserva l-enerġija tagħha.	Hija rat il-linja finali.
+cause	2	It-tifel ta bidu għall-magna tal-bejgħ.	Il-magna bżiq il-bidla.	Il-borża taċ-ċipep kienet mwaħħla.
+effect	2	Il-kelb tal-ħabib tiegħi miet.	I rrumblajt għajnejja lejh.	I tatu tgħanniqa.
+effect	2	Il-karta ta 'kreditu tan-negozjant naqset.	Huwa kiteb IOU.	Huwa ħallas bi flus kontanti.
+cause	2	Ir-raġel misħuta.	Huwa mqaxxar id-dwiefer tiegħu.	Huwa stubbed toe tiegħu.
+cause	2	Ir-raġel ħassu kburi ma ’ħuh.	Ħuh daħal f’argument mal-ġenituri tagħhom.	Ħuh ġie aċċettat fl-iskola tal-liġi.
+effect	1	It-tifla riedet titgħallem dwar is-sistema solari.	Hija marret fil-librerija.	Ħarset lejn l-istilel.
+cause	2	Il-poster jeħel mal-ħajt.	I pożizzjonajt il-poster 'il fuq mill-bieb.	Nressaq tejp fuq wara tal-poster.
+effect	1	Il-klijent approva l-pjanijiet tal-perit għall-bini.	Il-perit bena l-bini.	Il-perit aġġusta l-pjanijiet.
+cause	1	Ir-raġel waqa 'l-kuċċarina tiegħu.	Idu kienet tħawwad.	Huwa lagħab il-kuċċarina.
+effect	2	Il-Kap Eżekuttiv tal-kumpanija rriżenja.	Il-Bord tad-Diretturi xolja l-kumpanija.	Il-bord tad-diretturi sab is-sostituzzjoni tiegħu.
+effect	1	Wasalt tard għat-taħdita.	Ħadt postu fir-ringiela ta 'wara.	I avviċinat il-podju.
+cause	1	Ir-raġel inħeles mill-ħabs.	Il-familja tiegħu ħallset il-ħelsien mill-arrest tiegħu.	Huwa attakka lil sħabu rikoverat.
+cause	2	Il-familja tilfet l-affarijiet kollha tagħhom.	Huma biegħu d-dar tagħhom.	Id-dar tagħhom ħadet in-nar.
+effect	2	I stomped fuq il-bott tal-aluminju.	Il-bott kien riċiklat.	Il-bott maqsum.
+effect	2	It-tifla ngħaqdet mat-tim tad-dibattitu.	Hija tgħallmet tuża kompjuter.	Hija tgħallmet ħiliet ta 'komunikazzjoni.
+cause	1	Il-burdata tiegħi tjiebet.	Smajt il-mużika.	Jien għamilt il-platti.
+effect	2	Il-karità għamlet għan biex tiġbor il-flus.	Huma xeba 'lil dawk bla dar.	Huma kellhom irkant.
+effect	2	Ir-roller coaster tefa 'l-qatra wieqfa.	Il-passiġġieri tgħaqqad.	Il-passiġġieri għajjat.
+effect	2	Kont furious.	I kkontrollaw il-kaxxa tal-posta malli nitlaq mid-dar.	I slammed il-bieb meta telaq mid-dar.
+effect	2	Ir-raġel ried jara t-tlugħ ix-xemx.	Huwa vvjaġġa lejn it-tramuntana.	Huwa qam kmieni.
+effect	2	I mitwi l-karta.	I riċiklat il-karta.	Il-karta mkabbra.
+effect	2	In-nazzjon ġarrab diżastru naturali.	Mexxejja ta ’pajjiżi oħra ffurmaw alleanza.	Mexxejja ta ’pajjiżi oħra bagħtu eżenzjoni ta’ emerġenza.
+cause	2	Il-ħwejjeġ tat-tifel imxarrba.	Huwa telgħu barra mill-pixxina.	Huwa waqa 'fil-pixxina.
+cause	1	L-istudent ġrew biex jintemm il-ktieb.	Kien imwaqqaf lura fil-librerija.	Huwa ssellef mingħand ħabib.
+cause	2	Il-kriminali ġie eżegwit.	Huwa ġie mitfugħ il-ħabs.	Huwa nstab ħati ta ’qtil.
+cause	1	Dawl tax-xemx daħal fil-kamra.	Ftaħt il-purtieri.	I ftuħ il-bieb.
+effect	1	I yanked ix-xagħar tal-imposter.	Il-wig tagħha ħareġ.	Hija marret qargħi.
+cause	2	L-editur reġa ’wordja sentenza fil-manuskritt.	Huwa sab il-manuskritt konvinċenti.	Huwa qies is-sentenza mhux ċara.
+cause	1	Il-mara kkanċellat il-kont tal-karta tal-kreditu tagħha.	Hi indunat li l-karta kienet nieqsa.	Hi indunat li l-karta kienet skadiet.
+effect	2	Ir-raġel u l-mara nħobbu.	Huma attendew il-kulleġġ.	Huma żżewġu.
+effect	1	Il-mużika kienet ħażina wisq biex tisma '.	Jien iddawwar il-volum.	I kkomponejt il-kanzunetta tiegħi stess.
+cause	1	Ix-xagħar tat-tifel kien qed jeħel.	It-tifla ħabbtha.	It-tifla ġibdetha.
+cause	2	Il-bug squashed.	I sprejjajt lili nnifsi bi ripellant tal-bug.	I tlajt fuq il-bug.
+cause	1	Ftaħt għajnejja.	Jien qomt.	Jien rilassat.
+effect	1	Il-mużika tal-proxxmu tiegħi kienet qed tgħaqqad.	Staqsejtu biex iwaqqa '.	Tlabt biex tissellef is-CD mingħandu.
+cause	2	Il-familja tar-raġel kienet tgħix fil-faqar.	Huwa kien frugal bil-qligħ tiegħu.	Huwa kiseb taħt il-paga minima.
+effect	1	L-istudent iggradwa mill-università.	Huwa fittex xogħol.	Huwa ħa passatemp.
+effect	2	L-artist imħallat żebgħa isfar f'żebgħa blu.	Iż-żebgħa splattered kullimkien.	Iż-żebgħa saret ħadra.
+cause	2	Biddilt is-suġġett tal-konversazzjoni.	Jien spiċċajt mill-affarijiet biex nitkellem dwarhom.	Il-konversazzjoni saret tensa.
+effect	1	My brother inħeles mill-isptar.	Ilqajt lura d-dar.	I tatu l-ispalla kiesħa.
+effect	1	Il-purtiera fuq il-palk telgħet.	Ix-xena tal-ftuħ tad-dramm bdiet.	L-atturi fid-dramm ħarġu mill-palk.
+cause	1	L-ostaġġ ippreżenta lill-mandati tal-ħtif.	Il-ħtif hedded li jweġġa 'lill-ostaġġ.	Il-ħtif ħalla l-ostaġġ waħdu.
+cause	2	Boom reverberated madwar l-istadju.	Il-mużiċist sfruttat siequ.	Il-mużiċist tefa ’t-tanbur.
+cause	1	Il-ġenituri ġrew fil-kamra tas-sodda tat-tfal tagħhom.	It-tifel qajjem jgħajjat ​​minn ħmarillejl.	It-tifel kien jibża 'jħares taħt is-sodda tagħha.
+cause	2	Il-mara kkomunikat bil-lingwa tas-sinjali.	Hija twieldet prematur.	Hija twieldet torox.
+effect	2	In-nixfa seħħet fir-reġjun.	L-ilma sar ikkontaminat.	L-uċuħ tar-raba 'jitħassru.
+effect	1	Il-qattus chased l-għasfur.	L-għasfur tellgħu 'l bogħod.	L-għasfur qabad dudu.
+cause	2	It-tifla qalbu l-iskejjel.	L-iskola ħalliet għas-sajf.	Hija marret tgħix f’belt ġdida.
+effect	2	Is-sid tal-fabbrika rrifjuta li jgħolli l-pagi tal-impjegati.	Is-sid ħatar maniġer ġdid.	L-impjegati marru fi strajk.
+effect	2	Il-mexxej antagonizza l-estremisti fost pajjiżu.	L-estremisti influwenzawh.	L-estremisti qatluh.
+effect	1	Tlaqt barefoot fuq il-bajja.	Ramel mwaħħal ma 'saqajja.	Il-mewġ iġġarraf tul ix-xatt.
+effect	1	Qomt f'nofs il-lejl inħossni kiesaħ.	Qiegħed sweatpants.	I xorob tazza ilma.
+cause	2	L-omm qabbdet lil binha.	Binha tbissem.	Binha whined.
+cause	2	Toqba misruqa fil-jeans tiegħi.	I żipp il-jeans.	I tripped fuq il-bankina.
+effect	2	It-tifel kien jilbes ċineg.	Huwa kiseb kavità.	Snien tiegħu saru dritti.
+effect	1	Ilbieraħ ħdimt fil-ġinnasju.	Illum qomt bil-muskoli uġigħ.	Illum qomt bil-griżmejn fil-griżmejn.
+effect	2	It-tifla whispered quddiem u lura lil xulxin fuq il-mejda tal-ikel.	Studenti oħra poġġew bilqiegħda fuq il-mejda tal-ikel.	Studenti oħra fuq il-mejda tal-ikel ħassewhom barra.
+effect	1	It-tifel żbarka fuq it-trampolin.	Hija nibtu lura fl-arja.	Hija ddeċidiet li tipprova tagħmel flip.
+effect	1	Iddepożita l-ittra fil-kaxxa tal-posta.	L-Uffiċċju tal-Posta ta l-ittra.	L-Uffiċċju tal-Posta ħaffef l-ittra.
+effect	1	Il-logħob tal-azzard kien kunfidenti.	Huwa mħatri l-flus kollha tiegħu.	Huwa mar id-dar kissru.
+cause	1	In-nar tal-foresta infirex.	L-irjieħ saru aktar b'saħħithom.	L-arsonisti nqabdu.
+effect	2	It-tifel imqaxxar l-irkoppa tiegħu.	Ommu bagħtuh fil-kamra tiegħu.	Ommu poġġiet faxxa fuq il-ferita.
+cause	2	Ir-raġel baqa ’ħaj mill-marda fatali.	Huwa ffirma r-rieda tiegħu.	Huwa rċieva trapjant ta 'organu.
+effect	2	Ħadt sors tal-kafè li jinqala '.	I gdim l-ilsien tiegħi.	Inħaraq l-ilsien tiegħi.
+cause	2	L-editur spara lill-kittieb.	Il-kittieb evita l-preġudizzju fl-istejjer tagħha.	Il-kittieb falla skadenza importanti.
+cause	2	Ħassejtni eżawrit.	Jien norqod il-ġurnata kollha.	Studjajt il-ġurnata kollha.
+cause	1	It-tabib iddijanjostika l-pazjent.	Hija identifikat is-sintomi tal-pazjent.	Hija preskritt pilloli lill-pazjent.
+cause	2	I scratched il-ġilda tiegħi.	Kien għaraq.	Ħass ħakk.
+cause	2	Ir-raġel sar kirurġija ta 'emerġenza.	Huwa tilef it-tempra tiegħu.	Huwa sofra attakk tal-qalb.
+cause	1	Il-muskoli tad-driegħ tar-raġel jinbdew.	Huwa għawweġ armi tiegħu.	Huwa jingħorok armi.
+cause	1	Ir-raġel għolla l-għajnejn tiegħu.	Huwa kien sorpriż.	Huwa ħassu skoraġġut.
+cause	1	Skużajt it-taħwida tal-kollega tiegħi.	Jien emmint li l-intenzjonijiet tiegħu kienu tajbin.	Jien emmint li kien jaf aħjar.
+effect	1	Ir-raġel nieqaf ipejjep.	Huwa beda jeżerċita aktar.	Huwa beda jqum qabel.
+effect	2	Il-mara ta daqqa ta ’ponn lill-attakkant tagħha fl-imnieħer.	Il-ġisem tal-attakkant mar bla ħajja.	L-attakkant beda fsada.
+cause	1	Id-dart falla l-għajn tal-barri.	L-għan tar-raġel kien mitfi.	Ir-raġel kien qed jitlef il-logħba.
+cause	1	Sid id-dar talab li sterminatur jiġi d-dar tiegħu.	Skopra firien fil-kantina.	Huwa żamm razzett tan-nemel fil-kamra tiegħu.
+cause	1	I ssuġġerejt lill-houseguest tiegħi li noħorġu għall-pranzu.	Kont għajjien wisq biex nipprepara xejn.	Id-dar tiegħi qabżet il-merħba tagħha.
+effect	1	It-tifla qabdet lil ħuha jaqra d-djarju tagħha.	Hija bdiet taħbi d-djarju.	Qabbdet djarju ġdid.
+effect	1	Il-mara kienet qasira fuq il-flus għall-kera.	Ħadmet sahra.	Hija waqfet xogħolha.
+cause	1	L-id tat-tifel malajr reġgħet ingħatat.	Huwa mess il-fuklar sħun.	Huwa patted ir-ras tal-ġeru.
+effect	2	Il-kumpanija riedet tkejjel is-sodisfazzjon tal-klijent.	Huma offrew skont lil klijenti ġodda.	Huma qassmu stħarriġ lill-klijenti.
+cause	2	L-art tal-injam saret grif.	It-tifel xeħet il-kuxxini minn fuq il-couch.	It-tifel kaxkar siġġu madwar l-art.
+cause	2	I protett wiċċi.	L-għadu tiegħi taunted lili.	L-għedewwa tiegħi cocked ponn.
+cause	1	L-istatwa famuża inħarqet.	Ġie milqut mis-sajjetti.	In-nies ġew biex jeqirduha.
+effect	2	Ħallejt il-frott fuq il-mejda.	Il-frott jitfa 'żrieragħ.	It-dubbien għajjat ​​il-frott.
+cause	2	Il-ballerina qatta ’ligament.	Hija indikat is-saqajn tagħha.	Hija mgħawweġ l-għaksa tagħha.
+cause	2	Is-shoelaces tat-tifel ġew marbuta.	Huwa tgħallem kif jorbothom.	Huwa dam madwar il-bitħa.
+effect	2	Sirt inħajjar fil-ktieb.	Irritorna l-ktieb.	Tlift il-korsa taż-żmien.
+cause	1	Ir-raġel kellu twemmin simili għal dawk tal-ġenituri tiegħu.	Il-ġenituri tiegħu influwenzawh.	Il-ġenituri tiegħu ċaħduh.
+cause	1	Il-karozza naqset gradwalment għal waqfien.	Spiċċa bla gass.	Ix-xufier rieqed.
+effect	2	Ir-raġel kiel il-ġelat fix-xemx.	Il-ġelat tilef it-togħma tiegħu.	Il-ġelat imqaxxar mill-kon.
+cause	2	I mdendla xogħol artistiku fil-kamra.	It-tapit deher maħmuġ.	Il-ħitan dehru vojta.
+cause	1	Tlaqt ix-xogħol kmieni.	Kelli uġigħ ta 'ras.	L-imgħallem tiegħi kellu laqgħa.
+effect	1	Il-ġeru maħmuġ it-tapit.	Is-sid scolded il-ġeru.	Is-sid ta l-kura tal-ġeru.
+effect	1	Skużajt lil sieħbi.	Ħabib tiegħi ħaferni.	Ħabib tiegħi sar infurjat.
+cause	2	Ir-raġel spikka fil-folla.	Huwa wettaq backpack.	Huwa libes vest tan-neon.
+effect	2	Ix-xhud gideb taħt ġurament.	Huwa temm ix-xhieda tiegħu.	Huwa ġie akkużat bi sperġur.
+cause	1	Il-mara miżbugħa xagħarha.	Riedet ħarsa ġdida.	Hija riedet tħallat.
+effect	2	L-immigranti nqabdu illegalment residenti fil-pajjiż.	Huma sabu impjieg.	Huma ġew deportati.
+effect	1	Il-kelliem pubbliku kkrekkjat ċajta.	L-udjenza daħk.	L-udjenza qamet bil-wieqfa.
+effect	1	Fittixt fix-xemx.	Ix-xemx għomjani.	Ix-xemx ikkonzat il-ġilda tiegħi.
+effect	2	Ħassejtni niddejjaq.	I snorted.	I yawned.
+cause	1	Il-steak kienet diffiċli biex tinqata '.	Is-sikkina kienet matt.	Il-steak kien mhux maħdum.
+cause	2	Il-mara ddikjarat falliment.	Hija rċeviet ħlas tal-pensjoni.	Hija akkwistat dejn massiv.
+effect	2	Id-dwal fl-appartament ta 'ħabib tiegħi kienu mixgħula.	Ħsibt jekk kienx barra.	Iddeċidejt li nżur.
+effect	2	Qiegħed il-fjura taħt imnieħri.	Il-petali ħarġu mill-fjura.	Jien qabad ir-riħa tal-fjura.
+cause	1	Il-mara ħassitha nostalġika.	Hija dam ħabib tat-tfulija.	Hija għajjat ​​lil uliedha.
+effect	2	L-istudent procrastinat fuq il-karta.	Huwa ppreżenta l-karta kmieni.	Huwa ppreżenta l-karta mhux kompluta.
+effect	2	Il-karozza tiegħi tkissret.	Mort fil-Mall.	Ċempilt mekkanik.
+cause	2	Jiena mormi n-nota.	Kien anonimu.	Kien illeġibbli.
+effect	2	L-għasfur flapped il-ġwienaħ tiegħu.	Poġġiet bajd.	Huwa tela '' l fuq.
+cause	2	I pparkjat fit-triq.	Il-garaxx kien miftuħ.	Il-garaxx kien mimli.
+effect	2	Il-kriminali mmira l-pistola lejn il-vittma tiegħu.	Il-kriminali poġġa l-pistola.	Il-vittma poġġiet idejh.
+cause	2	Ħarsu 'l quddiem għal tmiem il-ġimgħa.	I ppjanajt li nattendi l-funeral ta 'zijuh.	I ppjanat li nattendi t-tieġ ta 'ħabib tiegħi.
+cause	1	Tlift il-korsa taż-żmien.	Jien kont qed nagħmel il-ġurnata.	Jien kont imdardar.
+cause	1	Id-dokument stampat b’mod illegali.	L-istampatur kien baxx fuq il-linka.	L-istampar kien barra mill-karta.
+effect	1	L-istadium lagħab l-innu nazzjonali.	Il-fannijiet daru lejn il-bandiera.	Il-fannijiet ġrew il-grawnd.
+effect	2	Id-dip għandu togħma bland.	Servejtha.	Inpoġġi l-melħ fiha.
+effect	1	I waqqaf ix-xugaman tal-karta fuq it-tixrid.	Ix-xugaman assorba l-likwidu.	It-tixrid ħalla residwu li jwaħħal.
+effect	1	Il-mara ġiet interrotta f’nofs il-qari tal-ktieb tagħha.	Hija mmarkat il-paġna tagħha.	Hija qari mill-ġdid il-ktieb.
+effect	1	L-ajruplan laqat xi turbulenza.	Ir-raġel issikka ċ-ċinturin tas-sigurtà tiegħu.	Ir-raġel ħares mit-tieqa.
+cause	2	It-tifel flinched.	It-tifla injorah.	It-tifla poked lilu.
+cause	1	It-tobba taw lill-pazjent riġel artifiċjali.	Huma amputaw riġel tagħha.	Huma mmonitorjaw il-vitali tagħha.
+effect	2	It-tifel għafsa l-minkeb tat-tifla.	Hija shrugged l-ispallejn lejh.	Hija jerked driegħha 'l bogħod minnu.
+cause	1	Staqsejt parir lil sieħbi.	I vvalutat l-opinjoni tiegħu.	Kont naf li kelli raġun.
+effect	1	It-tifel żied it-tajn.	It-tajn jeħel maż-żraben tiegħu.	It-tajn laqatlu fil-wiċċ.
+effect	1	Il-belt irċeviet diversi pulzieri ta ’borra.	L-iskejjel jagħlqu.	In-nies ħeba taħt l-art.
+effect	1	Il-bidla tal-impjegat intemmet.	Huwa mar id-dar għall-ġurnata.	Huwa hedded li jieqaf ix-xogħol.
+cause	1	Is-siġra għamlet ħsara lid-dar.	Is-siġra waqgħet fuq il-bejt.	Is-siġra skura l-bitħa.
+cause	2	L-injam jinqasam bin-nofs.	I stivajt l-injam fin-nar.	I tbandal il-mannara 'l isfel lejn l-injam.
+cause	2	Il-familja feraħ lill-koppja.	Il-koppja ħabbret li kienu qed jisseparaw.	Il-koppja ħabbret li kienu qed ikollhom tarbija.
+cause	1	It-tifla bagħtet lit-tifel Valentine.	Għoġobni.	Hija kissed lilu.
+cause	2	I nodded rasi fid-dikjarazzjoni tal-ħabib tiegħi.	Kont konfuż.	Ftehmet miegħu.
+cause	2	Il-ħbieb flipped munita.	Huma riedu jsibu kompromess.	Huma riedu jieħdu deċiżjoni ġusta.
+effect	2	It-timer fil-kċina spiċċa.	Ir-raġel ħatt il-merċa fil-friġġ.	Ir-raġel ħa l-pizza mill-forn.
+effect	2	Il-mara stabbiliet għan ambizzjuż.	Hija slacked off.	Ħadmet ħafna.
+effect	2	Ir-raġel sinjur miet fix-xjuħija.	Ibnu daħal fl-inkwiet legali.	Ibnu wiret il-fortuna tiegħu.
+effect	1	Il-mara stomped fuq il-fjammi.	Il-fjammi ħarġu.	Id-duħħan qam mill-fjammi.
+cause	2	Il-karozza tal-mara kienet fil-ħanut.	Il-liċenzja tas-sewwieq tagħha ġiet revokata.	Qabbdet f'inċident bil-karozza.
+effect	2	Jien norqod permezz tal-allarm tiegħi.	Għamilt il-kolazzjon.	Tlift il-kolazzjon.
+effect	1	Il-figura pubblika ħarġet mil-limousine.	Il-kameras flashed fid-direzzjoni tiegħu.	Il-familja tiegħu attendiet il-konferenza stampa.
+effect	1	Il-mara wieqfa fil-bathtub.	L-ilma tal-banju sar biered.	L-ilma tal-banju msaffi mit-tub.
+effect	1	L-istudent tal-kulleġġ ried jiltaqa ’ma’ studenti oħra fuq il-kampus.	Huwa ngħaqad ma 'fraternità.	Huwa majored fl-inġinerija.
+cause	1	Jien neħħejt il-kuxxini tal-couch.	Kont qed infittex bidla maħlula.	I kien jirranġa l-kamra tal-għixien.
+effect	1	Il-wasp taru lejn it-tifel.	It-tifel ħarab.	It-tifel qabad fjura.
+effect	1	Il-mara nstabet ħatja ta ’delitt.	Hija ġiet ikkundannata biex twettaq servizz fil-komunità.	Hija tqiegħdet fuq il-mewt.
+effect	2	Ħawwad iz-zokkor fit-te sħun.	It-te steamed.	Iz-zokkor maħlul.
+cause	2	Il-veteran telaq ma 'zopp.	Huwa ġie abbozzat għall-gwerra.	Huwa weġġa ’fil-battalja.
+effect	2	Il-kriminali ħarab mill-pulizija.	Il-pulizija attendew lill-vittma.	Il-pulizija chased lill-kriminali.
+cause	1	Il-laptop ma jixgħelx.	Waqqajtha.	I akkużatha.
+cause	1	Il-mara spiċċat mill-kamra fil-closet tagħha.	Hija akkwistat gwardarobba estensiva.	Hija mitwija l-ħasil tagħha.
+cause	2	Ir-raġel kien qalbu.	Martu welldet.	Martu ħallietha.
+effect	1	Ir-raġel kiseb grad.	Huwa sar kwalifikat għax-xogħol li ried.	L-offerta ta 'xogħol tiegħu ġiet imwarrba.
+cause	2	Il-vuċi tar-raġel ipproġettat b'mod ċar fl-awditorju kollu.	Huwa sellem lill-udjenza.	Huwa tkellem fil-mikrofonu.
+effect	1	I tossed munita fil-funtana ta 'l-ilma.	Il-munita għereq sal-qiegħ.	Il-munita kissret bin-nofs.
+effect	1	Il-plejer laqat il-ballun lejn it-toqba.	Il-ballun mar fit-toqba.	Il-ballun rtira lura għand il-plejer.
+effect	2	Jien nifs fit-trab fl-attic.	I hiccupped.	I tgħatas.
+cause	1	Il-kaxxier tal-maħżen imsejjaħ Security.	Il-klijent uża flus foloz.	Il-klijent ħalla l-headlights tiegħu.
+cause	1	Ħadt iż-żibel barra.	Iż-żibel għamel il-kċina riħa ħażina.	Aċċidentalment tefa 'l-lista tax-xiri tiegħi.
+effect	1	Il-familja marret fiż-żoo.	It-tfal ammiraw l-annimali.	It-tfal chased l-annimali.
+cause	2	In-nifs tar-raġel kien qawwi.	Il-kliewi tiegħu kienu qed ifallu.	Il-pulmuni tiegħu kienu konġestjonati.
+effect	2	Kelli biljett żejjed għall-kunċert.	Staqsejt lil sieħbi għal direzzjonijiet lejn il-post.	Staqsejt lil sieħbi jekk kienx interessat li jmur.
+effect	2	L-arja kondizzjonata fid-dar kissret.	Ġejt kutri.	Ftaħt it-twieqi.
+cause	2	Id-dahar tat-tifel weġġa '.	Il-backpack tiegħu kien miftuħ.	Il-backpack tiegħu kien tqil.
+cause	2	Xtrajt lil ommi preżenti.	I moħmi kejk.	Kien għeluq sninha.
+cause	2	Id-daffodils fil-ġnien inqerdu.	Naħla stung il-ġardinar.	L-iskojjattli ħaffru l-bozoz.
+effect	2	Laqtet il-partita.	Il-fjamma faded out.	Il-partita pproduċiet fjamma.
+cause	1	Il-partijiet li kkontestaw laħqu ftehim.	Ma riedux jiddibattu fil-qorti.	Huma riedu jsewwu r-relazzjoni personali tagħhom.
+cause	1	It-tfal intbagħtu lil orfanatrofju.	Il-ġenituri tagħhom mietu.	Il-ġenituri tagħhom ħassruhom.
+effect	1	Meteorit żbarkat fl-oċean.	Seħħ tsunami.	Beda silġ.
+effect	2	Il-mixi ltaqa 'ma' serp velenuż.	Hija saret deidratata.	Hija imwerwra.
+cause	1	Il-forn sar jaħraq.	Jien dawwar il-forn.	Qiegħed id-dixx fil-forn.
+effect	2	I għafas il-feles tal-lumi.	Il-lumi marret immuffat.	Il-lumi squirted.
+effect	2	Il-pajjiż skopra art ġdida.	Il-pajjiż abbanduna l-art.	Il-pajjiż ikkolonizza l-art.
+effect	1	Il-ħġieġ waqaf mill-mejda.	Huwa għebet madwar l-art.	Huwa żbarkat f'munzell ta 'ħasil.
+cause	1	It-tabella wobbled.	L-art kienet irregolari.	L-art kienet tiżloq.
+effect	1	Il-missier qabad lil ibnu mimdud.	Ibnu stqarr il-verità.	Il-missier fdat lil ibnu.
+effect	2	Ir-ras tar-raġel imqaxxar bl-uġigħ.	Huwa ħa ġulepp tas-sogħla.	Huwa ħa aspirina.
+cause	1	Il-ferrovija naqset.	Kien joqrob lejn l-istazzjon.	Kien għaddej wara l-iskeda.
+cause	2	Ir-raġel għadda minn terapija.	Mard mentali dam fil-familja tiegħu.	Huwa ġie ddijanjostikat bid-depressjoni.
+cause	2	Il-mara clutched gerżuma tagħha.	Hija belgħet l-ikel tagħha.	Hija fgat fuq l-ikel tagħha.
+effect	1	Il-mara kellha uġigħ fil-griżmejn.	Il-vuċi tagħha tinstema 'raspy.	Hija tkellmet b'aċċent.
+effect	1	Il-kelb għajnejh il-steak mmerraq fuq il-mejda.	Huwa mdendel.	Huwa stabbilit.
+effect	2	In-negozju tal-mara rnexxielu.	Hija sparat lill-impjegati tagħha.	Hija saret sinjura.
+cause	1	L-istudenti ħarġu mill-klassi.	Il-qanpiena daqqet.	L-għalliem assenja d-dar.
+effect	1	Il-mara sostniet li rat ghost.	Il-konoxxenti tagħha esprimew ix-xettiċiżmu.	Il-konoxxenti tagħha relatati magħha.
+cause	2	Ir-raġel tilef is-smigħ tiegħu.	Huwa kważi għerqu fl-oċean.	Huwa kien kważi maqtul fi splużjoni.
+effect	2	It-tifel itlaq il-korda tal-bużżieqa.	Il-bużżieqa deflated.	Il-bużżieqa telgħet fl-arja.
+cause	1	Ir-raġel tilef il-ħila tiegħu li jitkellem.	Kellu puplesija.	Huwa ħa nifs fil-fond.
+cause	1	Il-mara waqqgħet fuq il-bankina.	Kien hemm qasma fis-siment.	Hija semgħet isimha qed tissejjaħ.
+effect	2	Ir-raġel għamel ballun kanoniku fil-pixxina.	Is-salvataġġ qabża warajh.	Ir-raġel jixxarrab is-salvataġġ.
+effect	1	Ħadt antibijotiċi.	L-infezzjoni tiegħi kklerjat.	L-infezzjoni tiegħi infirxet.
+effect	1	Id-dawl tat-traffiku sar isfar.	Is-sewwieq imbuttat il-brejk.	Ix-xufier honked il-qrun tiegħu.
+cause	2	Il-kontenitur tal-plastik idub.	I mxarrba l-kontenitur f'ilma sħun.	Qiegħed il-kontenitur fuq il-fuklar sħun.
+cause	1	Il-karozza marret dentat.	Ix-xufier laqat arblu tat-telefon.	Ix-xufier mexxa dawl aħmar.
+effect	2	It-tifel studja l-lejl kollu.	Huwa skipped l-eżami.	Huwa għadda l-eżami.
+cause	1	It-tifel żgħir qabad mal-ledge tal-pixxina.	Huwa beża 'jitgħallem jgħum.	Is-salvataġġ kien fuq xogħol.
+effect	1	Qiegħed idejja fuq sidri.	Ħassejt it-taħbit tal-qalb tiegħi.	Ir-rata tal-qalb tiegħi ħaffef.
+effect	2	Il-bini biswit l-uffiċċju tiegħi kien qed jinbena.	L-uffiċċju tiegħi kien iffullat.	L-uffiċċju tiegħi kien storbjuż.
+effect	1	Il-familja riedet issir taf il-ġirien il-ġodda tagħhom.	Il-familja stiednet lill-ġirien għall-pranzu.	Il-familja xxejret lill-ġirien mit-tarzna tagħhom.
+cause	1	L-ilma splashed mill-pixxina.	L-għawwiem ħamiema fil-pixxina.	L-għawwiem imqiegħed fil-pixxina.
+effect	1	Jien naqta 'porzjon ta' dulliegħa.	I aċċidentalment belgħu żerriegħa.	I aċċidentalment imlaqqax snien tiegħi.
+cause	2	It-tifel waqqa '.	Il-ġakketta tiegħu ma kinitx miżjuda.	Is-shoelaces tiegħu ma kinux marbuta.
+cause	1	Il-mara poġġiet earplugs.	Kienet distratt mill-istorbju.	Qabbdet widnejha mtaqqba.
+cause	1	I mimlija mill-ġdid il-flixkun tal-ilma tiegħi.	I xorob l-ilma kollu fiha.	Żammejt fil-friġġ.
+cause	1	L-ispettaklu tat-televiżjoni ġie ċċensurat.	Kien fih lingwaġġ vulgari.	Kellha plott ikkumplikat.
+effect	1	Il-vapur inkaljat.	L-ekwipaġġ għerqu.	L-ekwipaġġ iltaqa 'ma' pirati.
+effect	2	It-tifel ħassu stumped mill-enigma.	Huwa solva l-enigma.	Huwa talab ħjiel.
+effect	2	It-telefon daqq.	Ir-raġel iddendel it-telefon.	Ir-raġel qabad it-telefon.
+effect	2	Il-mara kienet tħares lejja.	I hugged tagħha.	Ħassejtni skomdu.
+cause	2	Il-grupp ħalla l-mużew.	Huma ħadu ritratti tal-esebiti.	Huma jaraw l-esebiti kollha.
+effect	2	Ir-raġel beda argument miegħi.	Ħabib tiegħi introduċini lir-raġel.	Ħabib tiegħi wieqaf għalija.
+effect	1	It-tajer fuq ir-rota tiegħi kien ċatt.	I ppumpjat l-arja fit-tajer.	Qaleb l-irkaptu fuq ir-rota.
+effect	2	It-tifla dehret pallida.	Missierha qara storja tagħha.	Missierha ħass il-forehead tagħha.
+effect	1	Il-pinna spiċċat mill-linka.	Jiena użajt lapes.	I ffirmat ismi.
+cause	1	Ir-raġel ġie miċħud għal self.	Huwa kien fid-dejn.	Huwa beda negozju.
+cause	1	It-tifla baqgħet id-dar mill-iskola.	Kellha t-tiġieġ tal-ġidri.	Tieħu pjaċir titgħallem il-matematika.
+effect	1	Il-borża tat-trash kienet mimlija.	Ħadtha fil-dumpster.	I dumpedha 'l isfel mill-sink.
+cause	2	I mbattla t-tapit.	Ir-roommate tiegħi xerred punch.	Il-kelb tiegħi jitfa 'xagħar.
+effect	2	Ir-raġel tilef it-tempra tiegħu.	Huwa mitfi l-kompjuter tiegħu.	Huwa xeħet siġġu madwar il-kamra.
+effect	1	It-tifla xeħtet friegħi fil-kampeġġ.	Il-friegħ inħaraq.	In-nar ħareġ.
+cause	1	Ir-raġel ħareġ mid-doċċa.	L-ilma sħun kien mar.	Ma setax isib xugaman.
+effect	1	Il-ġenituri riedu li wliedhom imorru l-kulleġġ.	Huma jwarrbu fond tat-tfaddil għat-tagħlim.	Huma ħeġġew lil uliedhom biex jilagħbu barra.
+effect	1	Ir-raġel ma qabadx iż-żraben tiegħu.	Iż-żraben maħlula.	Iż-żraben jintlibsu.
+effect	1	Ir-raġel kiel nofs l-entree.	Huwa mkessaħ il-fdal.	Huwa salva r-riċetta.
+effect	1	L-għaksa tiegħi kienet minfuħa.	Inpoġġi s-silġ fuqu.	I jingħorok lotion fuqha.
+effect	2	Il-bieb tal-uffiċċju tiegħi kien miftuħ.	Tkellimt mal-kollega tiegħi fl-iskrivanija tiegħi.	Jien ħassejt il-konversazzjoni fis-sala.
+effect	2	Kelli nistenna fil-linja.	Ħadt siġġu.	I xkumat rivista.
+effect	1	Ir-raġel swatted fil-fly.	Id-dubbiena żanżit.	Id-dubbiena baqgħet wieqfa.
+cause	1	Ir-raġel kiteb testment.	Huwa kien qed imut.	Huwa kien armel.
+effect	2	Ir-runner ħass il-kompetitur tiegħu li kiseb fuqu.	Huwa waqa 'mit-tellieqa.	Huwa ħaffef il-pass tiegħu.
+effect	2	Ħsibt bir-reqqa dwar il-problema.	Tlabt parir.	Ġejt soluzzjoni.
+effect	1	Il-vjaġġatur telaq fuq il-pont tas-sospensjoni mħawwad.	Huwa ħassu terrified.	Huwa ħassu ecstatic.
+effect	2	Ir-raġel antiċipa r-rebħa tat-tim.	Huwa ltaqa 'ma' sħabu biex jaraw il-logħba.	Huwa għamel imħatra ma ’sħabu.
+effect	2	It-tifel ma setax jorqod.	Huwa waqqaf l-arloġġ tal-allarm tiegħu.	Huwa jgħodd in-nagħaġ.

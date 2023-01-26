@@ -18,7 +18,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", "--input_file", required=True, help="input file (tab separated)")
     parser.add_argument("-o", "--output_file", required=True, help="output file in JSON format")
-    parser.add_argument("-l", "--language", default='', 
+    parser.add_argument("-l", "--language", default='',
                         help="Language, only needed when adding cause/premise token")
     parser.add_argument("-d", "--data_type", default ="all", choices=["all", "cause","effect", "token"],
                         help="Do we keep all data or only cause/premise? When using 'token' we add a token that indicates cause or effect to the premise")
@@ -27,12 +27,18 @@ def main():
     # When we add a token to indicate cause/effect, we do so in the actual language
     # That seems to make more sense than a new token, or to do it in English
     typ_dict = {}
+    typ_dict["en-cause"] = "cause"
     typ_dict["bg-cause"] = "причина"
     typ_dict["tr-cause"] = "neden"
     typ_dict["mk-cause"] = "причина"
+    typ_dict["mt-cause"] = "kawża"
+    typ_dict["is-cause"] = "orsök"
+    typ_dict["en-effect"] = "еffect"
     typ_dict["bg-effect"] = "ефект"
     typ_dict["tr-effect"] = "Efekt"
     typ_dict["mk-effect"] = "ефект"
+    typ_dict["mt-effect"] = "effett"
+    typ_dict["is-effect"] = "áhrif"
 
     # Read in input file and create list of dictionaries
     data_list = []
@@ -44,8 +50,9 @@ def main():
             # For "all" and "token" keep all data, otherwise just cause/effect
             if args.data_type in ["token", "all"] or args.data_type == typ:
                 if args.data_type == "token":
-                    if not args.language:
-                        raise ValueError("Specify language iso code with -l when using -d token")
+                    if not args.language or args.language not in ['en', 'bg', 'is', 'mk', 'mt', 'tr']:
+                        print("WARNING: language not specified or not in en/bg/is/mk/mt/tr, use default English")
+                        args.language = 'en'
                     # Premise now contains cause/effect in target language
                     premise = typ_dict[args.language + "-" + typ] + ' ' + premise
 

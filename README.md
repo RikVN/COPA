@@ -4,9 +4,9 @@ This repo contains experiments in the [MaCoCu](https://macocu.eu/) project for f
 
 Each example contains a premise and two possible follow-up sentences. The model has to choose the ones which is the most plausible.
 
-We had the original English data set human-translated to Bulgarian, Macedonian and Turkish and performed experiments on those languages.
+We had the original English data set human-translated to Macedonian. For Bulgarian, Icelandic, Maltese and Turkish we used Google Translate. The data sets are available in the ``data/`` folder.
 
-Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
+Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Icelandic](https://huggingface.co/MaCoCu/XLMR-MaCoCu-is), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Maltese](https://huggingface.co/MaCoCu/XLMR-MaltBERTa) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
 
 ## Setting up
 
@@ -50,7 +50,7 @@ The script has multiple options to put the data in different formats by adding -
 * -d cause : only keep the "cause" data
 * -d effect: only keep the "effect" data
 
-When using ``-d token``, you have to specify the iso language code (bg, mk, tr) with -l.
+When using ``-d token``, you have to specify the iso language code (en, bg, is, mk, mt, tr) with -l.
 
 For example, if you only want to add a token to the Bulgarian test set, run this:
 
@@ -80,4 +80,4 @@ By default, this will average over **10 runs**, since the data set is so small. 
 
 Since training is fast, we never save any of the trained models for storage reasons. You can easily change this is in the config settings, though.
 
-Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
+Our results are available on HuggingFace for [Bulgarian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Icelandic](https://huggingface.co/MaCoCu/XLMR-MaCoCu-is), [Macedonian](https://huggingface.co/MaCoCu/XLMR-BERTovski), [Maltese](https://huggingface.co/MaCoCu/XLMR-MaltBERTa) and [Turkish](https://huggingface.co/MaCoCu/XLMR-MaCoCu-tr).
